@@ -1,0 +1,179 @@
+﻿@model IEnumerable<MvcProjectHospital.BillData>
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2> Patient Bill Generation</h2>
+<br />
+<br />
+
+<table class="table">
+
+
+    @foreach (var item in Model)
+    {
+        if (item.PatientTreatment.PatientType == "Inpatient")
+        {
+            <tr>
+                <th>
+                    Patient ID:
+                </th>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Patient.PatientID)
+                </td>
+                <th>
+                    Patient Name:
+                </th>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Patient.Name)
+                </td>
+                <th>
+                    Patient Age:
+                </th>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Patient.Age)
+                </td>
+            </tr>
+            <tr>
+                <th>
+                    Bill ID:
+                </th>
+                <td>
+                    @Html.DisplayFor(modelItem => item.BillNo)
+                </td>
+                <th>
+                    Doctor Name:
+                </th>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PatientTreatment.DoctorName)
+                </td>
+                <th>
+                    Patient Type :
+                </th>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PatientTreatment.PatientType)
+                </td>
+            </tr>
+            <tr>
+                <th>
+                    Doctor Fee:
+                </th>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DoctorFees)
+                </td>
+                <th>
+                    Room Charges:
+                </th>
+                <td>
+                    @Html.DisplayFor(modelItem => item.RoomCharge)
+                </td>
+                <th>
+                    Operation Charges:
+                </th>
+                <td>
+                    @Html.DisplayFor(modelItem => item.OperationCharge)
+                </td>
+                <th>
+                    Medicine Charges:
+                </th>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MedicineFees)
+                </td>
+
+                <th>
+                    Lab Charges:
+                </th>
+                <td>
+                    @Html.DisplayFor(modelItem => item.LabFees)
+                </td>
+                <th>
+                    Total Amount:
+                </th>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TotalAmount)
+                </td>
+                <th>
+                    Total Days:
+                </th>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TotalDays)
+                </td>
+            </tr>
+        }
+
+
+        if (item.PatientTreatment.PatientType == "Outpatient")
+        {
+            <tr>
+                <th>
+                    Patient ID:
+                </th>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Patient.PatientID)
+                </td>
+                <th>
+                    Patient Name:
+                </th>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Patient.Name)
+                </td>
+                <th>
+                    Patient Age:
+                </th>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Patient.Age)
+                </td>
+            </tr>
+            <tr>
+                <th>
+                    Bill ID:
+                </th>
+                <td>
+                    @Html.DisplayFor(modelItem => item.BillNo)
+                </td>
+                <th>
+                    Doctor Name:
+                </th>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PatientTreatment.DoctorName)
+                </td>
+            </tr>
+            <tr>
+                <th>
+                    Doctor Fee:
+                </th>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DoctorFees)
+                </td>
+                <th>
+                    Medicine Charges:
+                </th>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MedicineFees)
+                </td>
+
+                <th>
+                    Lab Charges:
+                </th>
+                <td>
+                    @Html.DisplayFor(modelItem => item.LabFees)
+                </td>
+                <th>
+                    Total Amount:
+                </th>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TotalAmount)
+                </td>
+                <th>
+                    Total Days:
+                </th>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TotalDays)
+                </td>
+            </tr>
+        }
+
+    }
+
+</table>

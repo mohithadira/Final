@@ -1,0 +1,210 @@
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\bin\Debug\HMSP2.exe.config
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\bin\Debug\HMSP2.exe
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\bin\Debug\HMSP2.pdb
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\obj\Debug\AddAppointmentData.g.cs
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\obj\Debug\AddPatientInfo.g.cs
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\obj\Debug\BillData.g.cs
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\obj\Debug\FindBillData.g.cs
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\obj\Debug\FindLabReport.g.cs
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\obj\Debug\LabReport.g.cs
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\obj\Debug\ModifyPatientInfo.g.cs
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\obj\Debug\SearchPatientInfo.g.cs
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\obj\Debug\HMSP2_MarkupCompile.cache
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\obj\Debug\HMSP2_MarkupCompile.lref
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\obj\Debug\AddAppointmentData.baml
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\obj\Debug\AddPatientInfo.baml
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\obj\Debug\BillData.baml
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\obj\Debug\FindBillData.baml
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\obj\Debug\FindLabReport.baml
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\obj\Debug\LabReport.baml
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\obj\Debug\ModifyPatientInfo.baml
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\obj\Debug\SearchPatientInfo.baml
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\obj\Debug\HMSP2.g.resources
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\obj\Debug\HMSP2.Properties.Resources.resources
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\obj\Debug\HMSPresentation.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\obj\Debug\HMSPresentation.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\obj\Debug\HMSP2.exe
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\obj\Debug\HMSP2.pdb
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\obj\Debug\HMSPresentation.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\bin\Debug\HMS.BusinessLayer.dll
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\bin\Debug\HMS.DataAccessLayer.dll
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\bin\Debug\HMS.Entities.dll
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\bin\Debug\HMS.Exceptions.dll
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\bin\Debug\HMS.BusinessLayer.pdb
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\bin\Debug\HMS.DataAccessLayer.pdb
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\bin\Debug\HMS.Entities.pdb
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\bin\Debug\HMS.Exceptions.pdb
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\obj\Debug\HMSPresentation.csproj.CopyComplete
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\obj\Debug\PatientAppointmentIntermediate.g.cs
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\obj\Debug\PatientAppointmentIntermediate.baml
+C:\Users\Administrator\Desktop\HMS - Copy\HMSwpf\HMSP2\bin\Debug\HMSP2.exe.config
+C:\Users\Administrator\Desktop\HMS - Copy\HMSwpf\HMSP2\bin\Debug\HMSP2.exe
+C:\Users\Administrator\Desktop\HMS - Copy\HMSwpf\HMSP2\bin\Debug\HMSP2.pdb
+C:\Users\Administrator\Desktop\HMS - Copy\HMSwpf\HMSP2\bin\Debug\HMS.BusinessLayer.dll
+C:\Users\Administrator\Desktop\HMS - Copy\HMSwpf\HMSP2\bin\Debug\HMS.DataAccessLayer.dll
+C:\Users\Administrator\Desktop\HMS - Copy\HMSwpf\HMSP2\bin\Debug\HMS.Entities.dll
+C:\Users\Administrator\Desktop\HMS - Copy\HMSwpf\HMSP2\bin\Debug\HMS.Exceptions.dll
+C:\Users\Administrator\Desktop\HMS - Copy\HMSwpf\HMSP2\bin\Debug\HMS.BusinessLayer.pdb
+C:\Users\Administrator\Desktop\HMS - Copy\HMSwpf\HMSP2\bin\Debug\HMS.DataAccessLayer.pdb
+C:\Users\Administrator\Desktop\HMS - Copy\HMSwpf\HMSP2\bin\Debug\HMS.Entities.pdb
+C:\Users\Administrator\Desktop\HMS - Copy\HMSwpf\HMSP2\bin\Debug\HMS.Exceptions.pdb
+C:\Users\Administrator\Desktop\HMS - Copy\HMSwpf\HMSP2\obj\Debug\HMSPresentation.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\HMS - Copy\HMSwpf\HMSP2\obj\Debug\AddAppointmentData.g.cs
+C:\Users\Administrator\Desktop\HMS - Copy\HMSwpf\HMSP2\obj\Debug\AddPatientInfo.g.cs
+C:\Users\Administrator\Desktop\HMS - Copy\HMSwpf\HMSP2\obj\Debug\BillData.g.cs
+C:\Users\Administrator\Desktop\HMS - Copy\HMSwpf\HMSP2\obj\Debug\FindBillData.g.cs
+C:\Users\Administrator\Desktop\HMS - Copy\HMSwpf\HMSP2\obj\Debug\FindLabReport.g.cs
+C:\Users\Administrator\Desktop\HMS - Copy\HMSwpf\HMSP2\obj\Debug\LabReport.g.cs
+C:\Users\Administrator\Desktop\HMS - Copy\HMSwpf\HMSP2\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\HMS - Copy\HMSwpf\HMSP2\obj\Debug\ModifyPatientInfo.g.cs
+C:\Users\Administrator\Desktop\HMS - Copy\HMSwpf\HMSP2\obj\Debug\PatientAppointmentIntermediate.g.cs
+C:\Users\Administrator\Desktop\HMS - Copy\HMSwpf\HMSP2\obj\Debug\SearchPatientInfo.g.cs
+C:\Users\Administrator\Desktop\HMS - Copy\HMSwpf\HMSP2\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\HMS - Copy\HMSwpf\HMSP2\obj\Debug\HMSP2_MarkupCompile.cache
+C:\Users\Administrator\Desktop\HMS - Copy\HMSwpf\HMSP2\obj\Debug\HMSP2_MarkupCompile.lref
+C:\Users\Administrator\Desktop\HMS - Copy\HMSwpf\HMSP2\obj\Debug\AddAppointmentData.baml
+C:\Users\Administrator\Desktop\HMS - Copy\HMSwpf\HMSP2\obj\Debug\AddPatientInfo.baml
+C:\Users\Administrator\Desktop\HMS - Copy\HMSwpf\HMSP2\obj\Debug\BillData.baml
+C:\Users\Administrator\Desktop\HMS - Copy\HMSwpf\HMSP2\obj\Debug\FindBillData.baml
+C:\Users\Administrator\Desktop\HMS - Copy\HMSwpf\HMSP2\obj\Debug\FindLabReport.baml
+C:\Users\Administrator\Desktop\HMS - Copy\HMSwpf\HMSP2\obj\Debug\LabReport.baml
+C:\Users\Administrator\Desktop\HMS - Copy\HMSwpf\HMSP2\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\HMS - Copy\HMSwpf\HMSP2\obj\Debug\ModifyPatientInfo.baml
+C:\Users\Administrator\Desktop\HMS - Copy\HMSwpf\HMSP2\obj\Debug\PatientAppointmentIntermediate.baml
+C:\Users\Administrator\Desktop\HMS - Copy\HMSwpf\HMSP2\obj\Debug\SearchPatientInfo.baml
+C:\Users\Administrator\Desktop\HMS - Copy\HMSwpf\HMSP2\obj\Debug\HMSP2.g.resources
+C:\Users\Administrator\Desktop\HMS - Copy\HMSwpf\HMSP2\obj\Debug\HMSP2.Properties.Resources.resources
+C:\Users\Administrator\Desktop\HMS - Copy\HMSwpf\HMSP2\obj\Debug\HMSPresentation.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\HMS - Copy\HMSwpf\HMSP2\obj\Debug\HMSPresentation.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\HMS - Copy\HMSwpf\HMSP2\obj\Debug\HMSPresentation.csproj.CopyComplete
+C:\Users\Administrator\Desktop\HMS - Copy\HMSwpf\HMSP2\obj\Debug\HMSP2.exe
+C:\Users\Administrator\Desktop\HMS - Copy\HMSwpf\HMSP2\obj\Debug\HMSP2.pdb
+C:\Users\Balaji Segu\Desktop\Capgemini\project\HMS - Copy\HMSwpf\HMSP2\bin\Debug\HMSP2.exe.config
+C:\Users\Balaji Segu\Desktop\Capgemini\project\HMS - Copy\HMSwpf\HMSP2\bin\Debug\HMSP2.exe
+C:\Users\Balaji Segu\Desktop\Capgemini\project\HMS - Copy\HMSwpf\HMSP2\bin\Debug\HMSP2.pdb
+C:\Users\Balaji Segu\Desktop\Capgemini\project\HMS - Copy\HMSwpf\HMSP2\bin\Debug\HMS.BusinessLayer.dll
+C:\Users\Balaji Segu\Desktop\Capgemini\project\HMS - Copy\HMSwpf\HMSP2\bin\Debug\HMS.DataAccessLayer.dll
+C:\Users\Balaji Segu\Desktop\Capgemini\project\HMS - Copy\HMSwpf\HMSP2\bin\Debug\HMS.Entities.dll
+C:\Users\Balaji Segu\Desktop\Capgemini\project\HMS - Copy\HMSwpf\HMSP2\bin\Debug\HMS.Exceptions.dll
+C:\Users\Balaji Segu\Desktop\Capgemini\project\HMS - Copy\HMSwpf\HMSP2\bin\Debug\HMS.BusinessLayer.pdb
+C:\Users\Balaji Segu\Desktop\Capgemini\project\HMS - Copy\HMSwpf\HMSP2\bin\Debug\HMS.DataAccessLayer.pdb
+C:\Users\Balaji Segu\Desktop\Capgemini\project\HMS - Copy\HMSwpf\HMSP2\bin\Debug\HMS.Entities.pdb
+C:\Users\Balaji Segu\Desktop\Capgemini\project\HMS - Copy\HMSwpf\HMSP2\bin\Debug\HMS.Exceptions.pdb
+C:\Users\Balaji Segu\Desktop\Capgemini\project\HMS - Copy\HMSwpf\HMSP2\obj\Debug\HMSPresentation.csprojAssemblyReference.cache
+C:\Users\Balaji Segu\Desktop\Capgemini\project\HMS - Copy\HMSwpf\HMSP2\obj\Debug\AddAppointmentData.g.cs
+C:\Users\Balaji Segu\Desktop\Capgemini\project\HMS - Copy\HMSwpf\HMSP2\obj\Debug\AddPatientInfo.g.cs
+C:\Users\Balaji Segu\Desktop\Capgemini\project\HMS - Copy\HMSwpf\HMSP2\obj\Debug\BillData.g.cs
+C:\Users\Balaji Segu\Desktop\Capgemini\project\HMS - Copy\HMSwpf\HMSP2\obj\Debug\FindBillData.g.cs
+C:\Users\Balaji Segu\Desktop\Capgemini\project\HMS - Copy\HMSwpf\HMSP2\obj\Debug\FindLabReport.g.cs
+C:\Users\Balaji Segu\Desktop\Capgemini\project\HMS - Copy\HMSwpf\HMSP2\obj\Debug\LabReport.g.cs
+C:\Users\Balaji Segu\Desktop\Capgemini\project\HMS - Copy\HMSwpf\HMSP2\obj\Debug\MainWindow.g.cs
+C:\Users\Balaji Segu\Desktop\Capgemini\project\HMS - Copy\HMSwpf\HMSP2\obj\Debug\ModifyPatientInfo.g.cs
+C:\Users\Balaji Segu\Desktop\Capgemini\project\HMS - Copy\HMSwpf\HMSP2\obj\Debug\PatientAppointmentIntermediate.g.cs
+C:\Users\Balaji Segu\Desktop\Capgemini\project\HMS - Copy\HMSwpf\HMSP2\obj\Debug\SearchPatientInfo.g.cs
+C:\Users\Balaji Segu\Desktop\Capgemini\project\HMS - Copy\HMSwpf\HMSP2\obj\Debug\App.g.cs
+C:\Users\Balaji Segu\Desktop\Capgemini\project\HMS - Copy\HMSwpf\HMSP2\obj\Debug\HMSP2_MarkupCompile.cache
+C:\Users\Balaji Segu\Desktop\Capgemini\project\HMS - Copy\HMSwpf\HMSP2\obj\Debug\HMSP2_MarkupCompile.lref
+C:\Users\Balaji Segu\Desktop\Capgemini\project\HMS - Copy\HMSwpf\HMSP2\obj\Debug\AddAppointmentData.baml
+C:\Users\Balaji Segu\Desktop\Capgemini\project\HMS - Copy\HMSwpf\HMSP2\obj\Debug\AddPatientInfo.baml
+C:\Users\Balaji Segu\Desktop\Capgemini\project\HMS - Copy\HMSwpf\HMSP2\obj\Debug\BillData.baml
+C:\Users\Balaji Segu\Desktop\Capgemini\project\HMS - Copy\HMSwpf\HMSP2\obj\Debug\FindBillData.baml
+C:\Users\Balaji Segu\Desktop\Capgemini\project\HMS - Copy\HMSwpf\HMSP2\obj\Debug\FindLabReport.baml
+C:\Users\Balaji Segu\Desktop\Capgemini\project\HMS - Copy\HMSwpf\HMSP2\obj\Debug\LabReport.baml
+C:\Users\Balaji Segu\Desktop\Capgemini\project\HMS - Copy\HMSwpf\HMSP2\obj\Debug\MainWindow.baml
+C:\Users\Balaji Segu\Desktop\Capgemini\project\HMS - Copy\HMSwpf\HMSP2\obj\Debug\ModifyPatientInfo.baml
+C:\Users\Balaji Segu\Desktop\Capgemini\project\HMS - Copy\HMSwpf\HMSP2\obj\Debug\PatientAppointmentIntermediate.baml
+C:\Users\Balaji Segu\Desktop\Capgemini\project\HMS - Copy\HMSwpf\HMSP2\obj\Debug\SearchPatientInfo.baml
+C:\Users\Balaji Segu\Desktop\Capgemini\project\HMS - Copy\HMSwpf\HMSP2\obj\Debug\HMSP2.g.resources
+C:\Users\Balaji Segu\Desktop\Capgemini\project\HMS - Copy\HMSwpf\HMSP2\obj\Debug\HMSP2.Properties.Resources.resources
+C:\Users\Balaji Segu\Desktop\Capgemini\project\HMS - Copy\HMSwpf\HMSP2\obj\Debug\HMSPresentation.csproj.GenerateResource.cache
+C:\Users\Balaji Segu\Desktop\Capgemini\project\HMS - Copy\HMSwpf\HMSP2\obj\Debug\HMSPresentation.csproj.CoreCompileInputs.cache
+C:\Users\Balaji Segu\Desktop\Capgemini\project\HMS - Copy\HMSwpf\HMSP2\obj\Debug\HMSPresentation.csproj.CopyComplete
+C:\Users\Balaji Segu\Desktop\Capgemini\project\HMS - Copy\HMSwpf\HMSP2\obj\Debug\HMSP2.exe
+C:\Users\Balaji Segu\Desktop\Capgemini\project\HMS - Copy\HMSwpf\HMSP2\obj\Debug\HMSP2.pdb
+E:\HMS - Copy\HMSwpf\HMSP2\bin\Debug\HMSP2.exe.config
+E:\HMS - Copy\HMSwpf\HMSP2\bin\Debug\HMSP2.exe
+E:\HMS - Copy\HMSwpf\HMSP2\bin\Debug\HMSP2.pdb
+E:\HMS - Copy\HMSwpf\HMSP2\bin\Debug\HMS.BusinessLayer.dll
+E:\HMS - Copy\HMSwpf\HMSP2\bin\Debug\HMS.DataAccessLayer.dll
+E:\HMS - Copy\HMSwpf\HMSP2\bin\Debug\HMS.Entities.dll
+E:\HMS - Copy\HMSwpf\HMSP2\bin\Debug\HMS.Exceptions.dll
+E:\HMS - Copy\HMSwpf\HMSP2\bin\Debug\HMS.BusinessLayer.pdb
+E:\HMS - Copy\HMSwpf\HMSP2\bin\Debug\HMS.DataAccessLayer.pdb
+E:\HMS - Copy\HMSwpf\HMSP2\bin\Debug\HMS.Entities.pdb
+E:\HMS - Copy\HMSwpf\HMSP2\bin\Debug\HMS.Exceptions.pdb
+E:\HMS - Copy\HMSwpf\HMSP2\obj\Debug\HMSPresentation.csprojAssemblyReference.cache
+E:\HMS - Copy\HMSwpf\HMSP2\obj\Debug\AddAppointmentData.g.cs
+E:\HMS - Copy\HMSwpf\HMSP2\obj\Debug\AddPatientInfo.g.cs
+E:\HMS - Copy\HMSwpf\HMSP2\obj\Debug\BillData.g.cs
+E:\HMS - Copy\HMSwpf\HMSP2\obj\Debug\FindBillData.g.cs
+E:\HMS - Copy\HMSwpf\HMSP2\obj\Debug\FindLabReport.g.cs
+E:\HMS - Copy\HMSwpf\HMSP2\obj\Debug\LabReport.g.cs
+E:\HMS - Copy\HMSwpf\HMSP2\obj\Debug\MainWindow.g.cs
+E:\HMS - Copy\HMSwpf\HMSP2\obj\Debug\ModifyPatientInfo.g.cs
+E:\HMS - Copy\HMSwpf\HMSP2\obj\Debug\PatientAppointmentIntermediate.g.cs
+E:\HMS - Copy\HMSwpf\HMSP2\obj\Debug\SearchPatientInfo.g.cs
+E:\HMS - Copy\HMSwpf\HMSP2\obj\Debug\App.g.cs
+E:\HMS - Copy\HMSwpf\HMSP2\obj\Debug\HMSP2_MarkupCompile.cache
+E:\HMS - Copy\HMSwpf\HMSP2\obj\Debug\HMSP2_MarkupCompile.lref
+E:\HMS - Copy\HMSwpf\HMSP2\obj\Debug\AddAppointmentData.baml
+E:\HMS - Copy\HMSwpf\HMSP2\obj\Debug\AddPatientInfo.baml
+E:\HMS - Copy\HMSwpf\HMSP2\obj\Debug\BillData.baml
+E:\HMS - Copy\HMSwpf\HMSP2\obj\Debug\FindBillData.baml
+E:\HMS - Copy\HMSwpf\HMSP2\obj\Debug\FindLabReport.baml
+E:\HMS - Copy\HMSwpf\HMSP2\obj\Debug\LabReport.baml
+E:\HMS - Copy\HMSwpf\HMSP2\obj\Debug\MainWindow.baml
+E:\HMS - Copy\HMSwpf\HMSP2\obj\Debug\ModifyPatientInfo.baml
+E:\HMS - Copy\HMSwpf\HMSP2\obj\Debug\PatientAppointmentIntermediate.baml
+E:\HMS - Copy\HMSwpf\HMSP2\obj\Debug\SearchPatientInfo.baml
+E:\HMS - Copy\HMSwpf\HMSP2\obj\Debug\HMSP2.g.resources
+E:\HMS - Copy\HMSwpf\HMSP2\obj\Debug\HMSP2.Properties.Resources.resources
+E:\HMS - Copy\HMSwpf\HMSP2\obj\Debug\HMSPresentation.csproj.GenerateResource.cache
+E:\HMS - Copy\HMSwpf\HMSP2\obj\Debug\HMSPresentation.csproj.CoreCompileInputs.cache
+E:\HMS - Copy\HMSwpf\HMSP2\obj\Debug\HMSPresentation.csproj.CopyComplete
+E:\HMS - Copy\HMSwpf\HMSP2\obj\Debug\HMSP2.exe
+E:\HMS - Copy\HMSwpf\HMSP2\obj\Debug\HMSP2.pdb
+C:\Users\Administrator\Desktop\hms\HMSwpf\HMSP2\bin\Debug\HMSP2.exe.config
+C:\Users\Administrator\Desktop\hms\HMSwpf\HMSP2\bin\Debug\HMSP2.exe
+C:\Users\Administrator\Desktop\hms\HMSwpf\HMSP2\bin\Debug\HMSP2.pdb
+C:\Users\Administrator\Desktop\hms\HMSwpf\HMSP2\bin\Debug\HMS.BusinessLayer.dll
+C:\Users\Administrator\Desktop\hms\HMSwpf\HMSP2\bin\Debug\HMS.DataAccessLayer.dll
+C:\Users\Administrator\Desktop\hms\HMSwpf\HMSP2\bin\Debug\HMS.Entities.dll
+C:\Users\Administrator\Desktop\hms\HMSwpf\HMSP2\bin\Debug\HMS.Exceptions.dll
+C:\Users\Administrator\Desktop\hms\HMSwpf\HMSP2\bin\Debug\HMS.BusinessLayer.pdb
+C:\Users\Administrator\Desktop\hms\HMSwpf\HMSP2\bin\Debug\HMS.DataAccessLayer.pdb
+C:\Users\Administrator\Desktop\hms\HMSwpf\HMSP2\bin\Debug\HMS.Entities.pdb
+C:\Users\Administrator\Desktop\hms\HMSwpf\HMSP2\bin\Debug\HMS.Exceptions.pdb
+C:\Users\Administrator\Desktop\hms\HMSwpf\HMSP2\obj\Debug\HMSPresentation.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\hms\HMSwpf\HMSP2\obj\Debug\AddAppointmentData.g.cs
+C:\Users\Administrator\Desktop\hms\HMSwpf\HMSP2\obj\Debug\AddPatientInfo.g.cs
+C:\Users\Administrator\Desktop\hms\HMSwpf\HMSP2\obj\Debug\BillData.g.cs
+C:\Users\Administrator\Desktop\hms\HMSwpf\HMSP2\obj\Debug\FindBillData.g.cs
+C:\Users\Administrator\Desktop\hms\HMSwpf\HMSP2\obj\Debug\FindLabReport.g.cs
+C:\Users\Administrator\Desktop\hms\HMSwpf\HMSP2\obj\Debug\LabReport.g.cs
+C:\Users\Administrator\Desktop\hms\HMSwpf\HMSP2\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\hms\HMSwpf\HMSP2\obj\Debug\ModifyPatientInfo.g.cs
+C:\Users\Administrator\Desktop\hms\HMSwpf\HMSP2\obj\Debug\PatientAppointmentIntermediate.g.cs
+C:\Users\Administrator\Desktop\hms\HMSwpf\HMSP2\obj\Debug\SearchPatientInfo.g.cs
+C:\Users\Administrator\Desktop\hms\HMSwpf\HMSP2\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\hms\HMSwpf\HMSP2\obj\Debug\HMSP2_MarkupCompile.cache
+C:\Users\Administrator\Desktop\hms\HMSwpf\HMSP2\obj\Debug\HMSP2_MarkupCompile.lref
+C:\Users\Administrator\Desktop\hms\HMSwpf\HMSP2\obj\Debug\AddAppointmentData.baml
+C:\Users\Administrator\Desktop\hms\HMSwpf\HMSP2\obj\Debug\AddPatientInfo.baml
+C:\Users\Administrator\Desktop\hms\HMSwpf\HMSP2\obj\Debug\BillData.baml
+C:\Users\Administrator\Desktop\hms\HMSwpf\HMSP2\obj\Debug\FindBillData.baml
+C:\Users\Administrator\Desktop\hms\HMSwpf\HMSP2\obj\Debug\FindLabReport.baml
+C:\Users\Administrator\Desktop\hms\HMSwpf\HMSP2\obj\Debug\LabReport.baml
+C:\Users\Administrator\Desktop\hms\HMSwpf\HMSP2\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\hms\HMSwpf\HMSP2\obj\Debug\ModifyPatientInfo.baml
+C:\Users\Administrator\Desktop\hms\HMSwpf\HMSP2\obj\Debug\PatientAppointmentIntermediate.baml
+C:\Users\Administrator\Desktop\hms\HMSwpf\HMSP2\obj\Debug\SearchPatientInfo.baml
+C:\Users\Administrator\Desktop\hms\HMSwpf\HMSP2\obj\Debug\HMSP2.g.resources
+C:\Users\Administrator\Desktop\hms\HMSwpf\HMSP2\obj\Debug\HMSP2.Properties.Resources.resources
+C:\Users\Administrator\Desktop\hms\HMSwpf\HMSP2\obj\Debug\HMSPresentation.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\hms\HMSwpf\HMSP2\obj\Debug\HMSPresentation.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\hms\HMSwpf\HMSP2\obj\Debug\HMSPresentation.csproj.CopyComplete
+C:\Users\Administrator\Desktop\hms\HMSwpf\HMSP2\obj\Debug\HMSP2.exe
+C:\Users\Administrator\Desktop\hms\HMSwpf\HMSP2\obj\Debug\HMSP2.pdb

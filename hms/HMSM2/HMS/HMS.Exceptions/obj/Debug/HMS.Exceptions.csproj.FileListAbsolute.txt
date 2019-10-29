@@ -1,0 +1,24 @@
+C:\Users\Balaji Segu\source\repos\HMS\HMS.Exceptions\bin\Debug\HMS.Exceptions.dll
+C:\Users\Balaji Segu\source\repos\HMS\HMS.Exceptions\bin\Debug\HMS.Exceptions.pdb
+C:\Users\Balaji Segu\source\repos\HMS\HMS.Exceptions\obj\Debug\HMS.Exceptions.csprojAssemblyReference.cache
+C:\Users\Balaji Segu\source\repos\HMS\HMS.Exceptions\obj\Debug\HMS.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Balaji Segu\source\repos\HMS\HMS.Exceptions\obj\Debug\HMS.Exceptions.dll
+C:\Users\Balaji Segu\source\repos\HMS\HMS.Exceptions\obj\Debug\HMS.Exceptions.pdb
+C:\Users\Administrator\Downloads\HMS\HMS.Exceptions\bin\Debug\HMS.Exceptions.dll
+C:\Users\Administrator\Downloads\HMS\HMS.Exceptions\bin\Debug\HMS.Exceptions.pdb
+C:\Users\Administrator\Downloads\HMS\HMS.Exceptions\obj\Debug\HMS.Exceptions.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\HMS\HMS.Exceptions\obj\Debug\HMS.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\HMS\HMS.Exceptions\obj\Debug\HMS.Exceptions.dll
+C:\Users\Administrator\Downloads\HMS\HMS.Exceptions\obj\Debug\HMS.Exceptions.pdb
+C:\Users\Administrator\Desktop\HMSM2\HMS\HMS.Exceptions\bin\Debug\HMS.Exceptions.dll
+C:\Users\Administrator\Desktop\HMSM2\HMS\HMS.Exceptions\bin\Debug\HMS.Exceptions.pdb
+C:\Users\Administrator\Desktop\HMSM2\HMS\HMS.Exceptions\obj\Debug\HMS.Exceptions.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\HMSM2\HMS\HMS.Exceptions\obj\Debug\HMS.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\HMSM2\HMS\HMS.Exceptions\obj\Debug\HMS.Exceptions.dll
+C:\Users\Administrator\Desktop\HMSM2\HMS\HMS.Exceptions\obj\Debug\HMS.Exceptions.pdb
+C:\Users\Administrator\Desktop\hms\HMSM2\HMS\HMS.Exceptions\bin\Debug\HMS.Exceptions.dll
+C:\Users\Administrator\Desktop\hms\HMSM2\HMS\HMS.Exceptions\bin\Debug\HMS.Exceptions.pdb
+C:\Users\Administrator\Desktop\hms\HMSM2\HMS\HMS.Exceptions\obj\Debug\HMS.Exceptions.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\hms\HMSM2\HMS\HMS.Exceptions\obj\Debug\HMS.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\hms\HMSM2\HMS\HMS.Exceptions\obj\Debug\HMS.Exceptions.dll
+C:\Users\Administrator\Desktop\hms\HMSM2\HMS\HMS.Exceptions\obj\Debug\HMS.Exceptions.pdb

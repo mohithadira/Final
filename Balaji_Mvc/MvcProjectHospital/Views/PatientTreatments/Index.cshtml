@@ -1,0 +1,91 @@
+﻿@model IEnumerable<MvcProjectHospital.PatientTreatment>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Patient Treatment Information</h2>
+<br />
+
+@using (Html.BeginForm("Index", "PatientTreatments", FormMethod.Post))
+{
+    <b>Search By: </b><br /><br />
+
+    @*@Html.RadioButton("searchBy", "PatientID", true)*@
+    <text> Patient ID: &emsp;&emsp;&ensp;</text> @Html.TextBox("searchByID")<br /><br />
+    <text> Doctor Name:  &emsp;</text> @Html.TextBox("searchByDoctor")<br /><br />
+    <text> Date of Visit: &emsp;&ensp; </text> @Html.TextBox("searchByVisitDate")<br /><br />
+    <text> Date of Admission: </text> @Html.TextBox("searchByAdmissionDate")<br />
+    <br />
+   <input type="submit" value="Search" />
+}
+<br />
+<br />
+<table class="table" border="1">
+    <tr>
+        <th>
+            Patient ID
+        </th>
+        <th>
+            Appointment ID
+        </th>
+        <th>
+            Patient Name
+        </th>
+
+        <th>
+            Doctor Name
+        </th>
+        <th>
+            Room No.
+        </th>
+        <th>
+            Date of Visit
+        </th>
+        <th>
+            Admission Date
+        </th>
+        <th>
+            Discharge Date
+        </th>
+        <th>
+            Patient Type
+        </th>
+        
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Patient.PatientID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AppointmentId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Patient.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DoctorName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.RoomNo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateOfVisit)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AdmissionDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DischargeDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PatientType)
+            </td>
+
+        </tr>
+    }
+
+</table>

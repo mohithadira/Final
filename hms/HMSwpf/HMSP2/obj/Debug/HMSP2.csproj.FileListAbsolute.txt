@@ -1,0 +1,59 @@
+C:\Users\Mohit parashar\Desktop\HMSP2\HMSP2\bin\Debug\HMSP2.exe.config
+C:\Users\Mohit parashar\Desktop\HMSP2\HMSP2\bin\Debug\HMSP2.exe
+C:\Users\Mohit parashar\Desktop\HMSP2\HMSP2\bin\Debug\HMSP2.pdb
+C:\Users\Mohit parashar\Desktop\HMSP2\HMSP2\obj\Debug\HMSP2.csprojAssemblyReference.cache
+C:\Users\Mohit parashar\Desktop\HMSP2\HMSP2\obj\Debug\AddPatientInfo.g.cs
+C:\Users\Mohit parashar\Desktop\HMSP2\HMSP2\obj\Debug\MainWindow.g.cs
+C:\Users\Mohit parashar\Desktop\HMSP2\HMSP2\obj\Debug\App.g.cs
+C:\Users\Mohit parashar\Desktop\HMSP2\HMSP2\obj\Debug\HMSP2_MarkupCompile.cache
+C:\Users\Mohit parashar\Desktop\HMSP2\HMSP2\obj\Debug\HMSP2_MarkupCompile.lref
+C:\Users\Mohit parashar\Desktop\HMSP2\HMSP2\obj\Debug\AddPatientInfo.baml
+C:\Users\Mohit parashar\Desktop\HMSP2\HMSP2\obj\Debug\MainWindow.baml
+C:\Users\Mohit parashar\Desktop\HMSP2\HMSP2\obj\Debug\HMSP2.g.resources
+C:\Users\Mohit parashar\Desktop\HMSP2\HMSP2\obj\Debug\HMSP2.Properties.Resources.resources
+C:\Users\Mohit parashar\Desktop\HMSP2\HMSP2\obj\Debug\HMSP2.csproj.GenerateResource.cache
+C:\Users\Mohit parashar\Desktop\HMSP2\HMSP2\obj\Debug\HMSP2.exe
+C:\Users\Mohit parashar\Desktop\HMSP2\HMSP2\obj\Debug\HMSP2.pdb
+C:\Users\Mohit parashar\Desktop\HMSP2\HMSP2\obj\Debug\AddAppointmentData.g.cs
+C:\Users\Mohit parashar\Desktop\HMSP2\HMSP2\obj\Debug\AddAppointmentData.baml
+C:\Users\Mohit parashar\Desktop\HMSP2\HMSP2\obj\Debug\ModifyPatientInfo.g.cs
+C:\Users\Mohit parashar\Desktop\HMSP2\HMSP2\obj\Debug\ModifyPatientInfo.baml
+C:\Users\Mohit parashar\Desktop\HMSP2\HMSP2\obj\Debug\BillData.g.cs
+C:\Users\Mohit parashar\Desktop\HMSP2\HMSP2\obj\Debug\FindBillData.g.cs
+C:\Users\Mohit parashar\Desktop\HMSP2\HMSP2\obj\Debug\FindLabReport.g.cs
+C:\Users\Mohit parashar\Desktop\HMSP2\HMSP2\obj\Debug\LabReport.g.cs
+C:\Users\Mohit parashar\Desktop\HMSP2\HMSP2\obj\Debug\BillData.baml
+C:\Users\Mohit parashar\Desktop\HMSP2\HMSP2\obj\Debug\FindBillData.baml
+C:\Users\Mohit parashar\Desktop\HMSP2\HMSP2\obj\Debug\FindLabReport.baml
+C:\Users\Mohit parashar\Desktop\HMSP2\HMSP2\obj\Debug\LabReport.baml
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\bin\Debug\HMSP2.exe.config
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\bin\Debug\HMSP2.exe
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\bin\Debug\HMSP2.pdb
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\obj\Debug\HMSP2.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\obj\Debug\AddAppointmentData.g.cs
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\obj\Debug\AddPatientInfo.g.cs
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\obj\Debug\BillData.g.cs
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\obj\Debug\FindBillData.g.cs
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\obj\Debug\FindLabReport.g.cs
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\obj\Debug\LabReport.g.cs
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\obj\Debug\ModifyPatientInfo.g.cs
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\obj\Debug\HMSP2_MarkupCompile.cache
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\obj\Debug\HMSP2_MarkupCompile.lref
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\obj\Debug\AddAppointmentData.baml
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\obj\Debug\AddPatientInfo.baml
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\obj\Debug\BillData.baml
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\obj\Debug\FindBillData.baml
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\obj\Debug\FindLabReport.baml
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\obj\Debug\LabReport.baml
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\obj\Debug\ModifyPatientInfo.baml
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\obj\Debug\HMSP2.g.resources
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\obj\Debug\HMSP2.Properties.Resources.resources
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\obj\Debug\HMSP2.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\obj\Debug\HMSP2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\obj\Debug\HMSP2.exe
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\obj\Debug\HMSP2.pdb
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\obj\Debug\SearchPatientInfo.g.cs
+C:\Users\Administrator\Desktop\HMSP2\HMSP2\obj\Debug\SearchPatientInfo.baml

@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\HMS - Copy\HMSM2\HMS\HMS.WPF\bin\Debug\HMS.WPF.exe.config
+C:\Users\Administrator\Desktop\HMS - Copy\HMSM2\HMS\HMS.WPF\bin\Debug\HMS.WPF.exe
+C:\Users\Administrator\Desktop\HMS - Copy\HMSM2\HMS\HMS.WPF\bin\Debug\HMS.WPF.pdb
+C:\Users\Administrator\Desktop\HMS - Copy\HMSM2\HMS\HMS.WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\HMS - Copy\HMSM2\HMS\HMS.WPF\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\HMS - Copy\HMSM2\HMS\HMS.WPF\obj\Debug\HMS.WPF_MarkupCompile.cache
+C:\Users\Administrator\Desktop\HMS - Copy\HMSM2\HMS\HMS.WPF\obj\Debug\HMS.WPF_MarkupCompile.lref
+C:\Users\Administrator\Desktop\HMS - Copy\HMSM2\HMS\HMS.WPF\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\HMS - Copy\HMSM2\HMS\HMS.WPF\obj\Debug\HMS.WPF.g.resources
+C:\Users\Administrator\Desktop\HMS - Copy\HMSM2\HMS\HMS.WPF\obj\Debug\HMS.WPF.Properties.Resources.resources
+C:\Users\Administrator\Desktop\HMS - Copy\HMSM2\HMS\HMS.WPF\obj\Debug\HMS.WPF.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\HMS - Copy\HMSM2\HMS\HMS.WPF\obj\Debug\HMS.WPF.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\HMS - Copy\HMSM2\HMS\HMS.WPF\obj\Debug\HMS.WPF.exe
+C:\Users\Administrator\Desktop\HMS - Copy\HMSM2\HMS\HMS.WPF\obj\Debug\HMS.WPF.pdb

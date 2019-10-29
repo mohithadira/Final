@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="HospitalMvcModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="BillData">
+    <Key>
+      <PropertyRef Name="BillNo" />
+    </Key>
+    <Property Name="BillNo" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="DoctorFees" Type="Int32" Nullable="false" />
+    <Property Name="RoomCharge" Type="Int32" />
+    <Property Name="OperationCharge" Type="Int32" />
+    <Property Name="MedicineFees" Type="Int32" Nullable="false" />
+    <Property Name="TotalDays" Type="Int32" />
+    <Property Name="LabFees" Type="Int32" Nullable="false" />
+    <Property Name="TotalAmount" Type="Int32" Nullable="false" />
+    <Property Name="PatientID" Type="Int32" Nullable="false" />
+    <Property Name="AppointmentId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="PatientTreatment" Relationship="Self.FK__BillData__Appoin__48CFD27E" FromRole="BillData" ToRole="PatientTreatment" />
+    <NavigationProperty Name="Patient" Relationship="Self.FK__BillData__Patien__47DBAE45" FromRole="BillData" ToRole="Patient" />
+  </EntityType>
+  <EntityType Name="Lab">
+    <Key>
+      <PropertyRef Name="ReportId" />
+    </Key>
+    <Property Name="ReportId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TestDate" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="Remarks" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="TestType" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="PatientID" Type="Int32" Nullable="false" />
+    <Property Name="AppointmentId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="PatientTreatment" Relationship="Self.FK__Lab__Appointment__4316F928" FromRole="Lab" ToRole="PatientTreatment" />
+    <NavigationProperty Name="Patient" Relationship="Self.FK__Lab__PatientID__4222D4EF" FromRole="Lab" ToRole="Patient" />
+  </EntityType>
+  <EntityType Name="Patient">
+    <Key>
+      <PropertyRef Name="PatientID" />
+    </Key>
+    <Property Name="PatientID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="30" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Gender" Type="String" MaxLength="1" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Age" Type="Int32" Nullable="false" />
+    <Property Name="Address" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="PhoneNo" Type="Int64" Nullable="false" />
+    <Property Name="Weight" Type="Int32" Nullable="false" />
+    <Property Name="Disease" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="BillDatas" Relationship="Self.FK__BillData__Patien__47DBAE45" FromRole="Patient" ToRole="BillData" />
+    <NavigationProperty Name="Labs" Relationship="Self.FK__Lab__PatientID__4222D4EF" FromRole="Patient" ToRole="Lab" />
+    <NavigationProperty Name="PatientTreatments" Relationship="Self.FK__PatientTr__Patie__3D5E1FD2" FromRole="Patient" ToRole="PatientTreatment" />
+  </EntityType>
+  <EntityType Name="PatientTreatment">
+    <Key>
+      <PropertyRef Name="AppointmentId" />
+    </Key>
+    <Property Name="AppointmentId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="DoctorName" Type="String" MaxLength="30" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="RoomNo" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="DateOfVisit" Type="DateTime" Precision="0" />
+    <Property Name="AdmissionDate" Type="DateTime" Precision="0" />
+    <Property Name="DischargeDate" Type="DateTime" Precision="0" />
+    <Property Name="PatientType" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="PatientID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="BillDatas" Relationship="Self.FK__BillData__Appoin__48CFD27E" FromRole="PatientTreatment" ToRole="BillData" />
+    <NavigationProperty Name="Labs" Relationship="Self.FK__Lab__Appointment__4316F928" FromRole="PatientTreatment" ToRole="Lab" />
+    <NavigationProperty Name="Patient" Relationship="Self.FK__PatientTr__Patie__3D5E1FD2" FromRole="PatientTreatment" ToRole="Patient" />
+  </EntityType>
+  <Association Name="FK__BillData__Appoin__48CFD27E">
+    <End Role="PatientTreatment" Type="Self.PatientTreatment" Multiplicity="1" />
+    <End Role="BillData" Type="Self.BillData" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PatientTreatment">
+        <PropertyRef Name="AppointmentId" />
+      </Principal>
+      <Dependent Role="BillData">
+        <PropertyRef Name="AppointmentId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__BillData__Patien__47DBAE45">
+    <End Role="Patient" Type="Self.Patient" Multiplicity="1" />
+    <End Role="BillData" Type="Self.BillData" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Patient">
+        <PropertyRef Name="PatientID" />
+      </Principal>
+      <Dependent Role="BillData">
+        <PropertyRef Name="PatientID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Lab__Appointment__4316F928">
+    <End Role="PatientTreatment" Type="Self.PatientTreatment" Multiplicity="1" />
+    <End Role="Lab" Type="Self.Lab" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PatientTreatment">
+        <PropertyRef Name="AppointmentId" />
+      </Principal>
+      <Dependent Role="Lab">
+        <PropertyRef Name="AppointmentId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Lab__PatientID__4222D4EF">
+    <End Role="Patient" Type="Self.Patient" Multiplicity="1" />
+    <End Role="Lab" Type="Self.Lab" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Patient">
+        <PropertyRef Name="PatientID" />
+      </Principal>
+      <Dependent Role="Lab">
+        <PropertyRef Name="PatientID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__PatientTr__Patie__3D5E1FD2">
+    <End Role="Patient" Type="Self.Patient" Multiplicity="1" />
+    <End Role="PatientTreatment" Type="Self.PatientTreatment" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Patient">
+        <PropertyRef Name="PatientID" />
+      </Principal>
+      <Dependent Role="PatientTreatment">
+        <PropertyRef Name="PatientID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="HospitalContext" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="BillDatas" EntityType="Self.BillData" />
+    <EntitySet Name="Labs" EntityType="Self.Lab" />
+    <EntitySet Name="Patients" EntityType="Self.Patient" />
+    <EntitySet Name="PatientTreatments" EntityType="Self.PatientTreatment" />
+    <AssociationSet Name="FK__BillData__Appoin__48CFD27E" Association="Self.FK__BillData__Appoin__48CFD27E">
+      <End Role="PatientTreatment" EntitySet="PatientTreatments" />
+      <End Role="BillData" EntitySet="BillDatas" />
+    </AssociationSet>
+    <AssociationSet Name="FK__BillData__Patien__47DBAE45" Association="Self.FK__BillData__Patien__47DBAE45">
+      <End Role="Patient" EntitySet="Patients" />
+      <End Role="BillData" EntitySet="BillDatas" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Lab__Appointment__4316F928" Association="Self.FK__Lab__Appointment__4316F928">
+      <End Role="PatientTreatment" EntitySet="PatientTreatments" />
+      <End Role="Lab" EntitySet="Labs" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Lab__PatientID__4222D4EF" Association="Self.FK__Lab__PatientID__4222D4EF">
+      <End Role="Patient" EntitySet="Patients" />
+      <End Role="Lab" EntitySet="Labs" />
+    </AssociationSet>
+    <AssociationSet Name="FK__PatientTr__Patie__3D5E1FD2" Association="Self.FK__PatientTr__Patie__3D5E1FD2">
+      <End Role="Patient" EntitySet="Patients" />
+      <End Role="PatientTreatment" EntitySet="PatientTreatments" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

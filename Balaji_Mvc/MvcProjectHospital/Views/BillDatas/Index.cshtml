@@ -1,0 +1,87 @@
+﻿@model IEnumerable<MvcProjectHospital.BillData>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Patients Bill Data</h2>
+<br />
+
+@using (Html.BeginForm("Index", "BillDatas", FormMethod.Post))
+{
+    <div class="form-horizontal">
+
+        <text><b>Patient ID: </b></text>&nbsp;&nbsp;&nbsp;
+        @Html.TextBox("patientId", null, new { htmlAttributes = new { @class = "form-control" } })   &nbsp;&nbsp;&nbsp;
+        <input type="submit" value="Submit" class="btn btn-default" />
+    </div>
+}
+<br />
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.DoctorFees)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.RoomCharge)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.OperationCharge)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MedicineFees)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TotalDays)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LabFees)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TotalAmount)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PatientTreatment.DoctorName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Patient.Name)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.DoctorFees)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.RoomCharge)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.OperationCharge)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MedicineFees)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TotalDays)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LabFees)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TotalAmount)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PatientTreatment.DoctorName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Patient.Name)
+            </td>
+        </tr>
+    }
+
+</table>

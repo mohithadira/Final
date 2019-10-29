@@ -1,0 +1,30 @@
+C:\Users\Balaji Segu\source\repos\HMS\HMS.Entities\bin\Debug\HMS.Entities.dll
+C:\Users\Balaji Segu\source\repos\HMS\HMS.Entities\bin\Debug\HMS.Entities.pdb
+C:\Users\Balaji Segu\source\repos\HMS\HMS.Entities\obj\Debug\HMS.Entities.csprojAssemblyReference.cache
+C:\Users\Balaji Segu\source\repos\HMS\HMS.Entities\obj\Debug\HMS.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Balaji Segu\source\repos\HMS\HMS.Entities\obj\Debug\HMS.Entities.dll
+C:\Users\Balaji Segu\source\repos\HMS\HMS.Entities\obj\Debug\HMS.Entities.pdb
+C:\Users\Administrator\Downloads\HMS\HMS.Entities\bin\Debug\HMS.Entities.dll
+C:\Users\Administrator\Downloads\HMS\HMS.Entities\bin\Debug\HMS.Entities.pdb
+C:\Users\Administrator\Downloads\HMS\HMS.Entities\obj\Debug\HMS.Entities.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\HMS\HMS.Entities\obj\Debug\HMS.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\HMS\HMS.Entities\obj\Debug\HMS.Entities.dll
+C:\Users\Administrator\Downloads\HMS\HMS.Entities\obj\Debug\HMS.Entities.pdb
+C:\Users\Administrator\Desktop\HMSM2\HMS\HMS.Entities\bin\Debug\HMS.Entities.dll
+C:\Users\Administrator\Desktop\HMSM2\HMS\HMS.Entities\bin\Debug\HMS.Entities.pdb
+C:\Users\Administrator\Desktop\HMSM2\HMS\HMS.Entities\obj\Debug\HMS.Entities.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\HMSM2\HMS\HMS.Entities\obj\Debug\HMS.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\HMSM2\HMS\HMS.Entities\obj\Debug\HMS.Entities.dll
+C:\Users\Administrator\Desktop\HMSM2\HMS\HMS.Entities\obj\Debug\HMS.Entities.pdb
+C:\Users\Administrator\Desktop\HMS - Copy\HMSM2\HMS\HMS.Entities\bin\Debug\HMS.Entities.dll
+C:\Users\Administrator\Desktop\HMS - Copy\HMSM2\HMS\HMS.Entities\bin\Debug\HMS.Entities.pdb
+C:\Users\Administrator\Desktop\HMS - Copy\HMSM2\HMS\HMS.Entities\obj\Debug\HMS.Entities.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\HMS - Copy\HMSM2\HMS\HMS.Entities\obj\Debug\HMS.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\HMS - Copy\HMSM2\HMS\HMS.Entities\obj\Debug\HMS.Entities.dll
+C:\Users\Administrator\Desktop\HMS - Copy\HMSM2\HMS\HMS.Entities\obj\Debug\HMS.Entities.pdb
+C:\Users\Administrator\Desktop\hms\HMSM2\HMS\HMS.Entities\bin\Debug\HMS.Entities.dll
+C:\Users\Administrator\Desktop\hms\HMSM2\HMS\HMS.Entities\bin\Debug\HMS.Entities.pdb
+C:\Users\Administrator\Desktop\hms\HMSM2\HMS\HMS.Entities\obj\Debug\HMS.Entities.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\hms\HMSM2\HMS\HMS.Entities\obj\Debug\HMS.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\hms\HMSM2\HMS\HMS.Entities\obj\Debug\HMS.Entities.dll
+C:\Users\Administrator\Desktop\hms\HMSM2\HMS\HMS.Entities\obj\Debug\HMS.Entities.pdb

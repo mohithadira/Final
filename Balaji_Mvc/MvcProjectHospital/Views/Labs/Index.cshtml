@@ -1,0 +1,64 @@
+﻿@model IEnumerable<MvcProjectHospital.Lab>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Patient Lab Data</h2><br />
+
+
+@using (Html.BeginForm("Index", "Labs", FormMethod.Post))
+{
+    <div class="form-horizontal">
+
+        <text><b>Patient ID: </b></text>&nbsp;&nbsp;&nbsp;
+        @Html.TextBox("patientId", null, new { htmlAttributes = new { @class = "form-control" } })   &nbsp;&nbsp;&nbsp;
+        <input type="submit" value="Submit" class="btn btn-default" />
+    </div>
+}
+
+<br />
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.TestDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Remarks)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TestType)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PatientTreatment.DoctorName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Patient.Name)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TestDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Remarks)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TestType)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PatientTreatment.DoctorName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Patient.Name)
+            </td>
+
+        </tr>
+    }
+
+</table>

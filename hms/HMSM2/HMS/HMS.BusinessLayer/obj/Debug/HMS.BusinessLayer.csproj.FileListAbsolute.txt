@@ -1,0 +1,78 @@
+C:\Users\Balaji Segu\source\repos\HMS\HMS.BusinessLayer\bin\Debug\HMS.BusinessLayer.dll
+C:\Users\Balaji Segu\source\repos\HMS\HMS.BusinessLayer\bin\Debug\HMS.BusinessLayer.pdb
+C:\Users\Balaji Segu\source\repos\HMS\HMS.BusinessLayer\bin\Debug\HMS.DataAccessLayer.dll
+C:\Users\Balaji Segu\source\repos\HMS\HMS.BusinessLayer\bin\Debug\HMS.Entities.dll
+C:\Users\Balaji Segu\source\repos\HMS\HMS.BusinessLayer\bin\Debug\HMS.Exceptions.dll
+C:\Users\Balaji Segu\source\repos\HMS\HMS.BusinessLayer\bin\Debug\HMS.DataAccessLayer.pdb
+C:\Users\Balaji Segu\source\repos\HMS\HMS.BusinessLayer\bin\Debug\HMS.Entities.pdb
+C:\Users\Balaji Segu\source\repos\HMS\HMS.BusinessLayer\bin\Debug\HMS.Exceptions.pdb
+C:\Users\Balaji Segu\source\repos\HMS\HMS.BusinessLayer\obj\Debug\HMS.BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Balaji Segu\source\repos\HMS\HMS.BusinessLayer\obj\Debug\HMS.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Balaji Segu\source\repos\HMS\HMS.BusinessLayer\obj\Debug\HMS.BusinessLayer.csproj.CopyComplete
+C:\Users\Balaji Segu\source\repos\HMS\HMS.BusinessLayer\obj\Debug\HMS.BusinessLayer.dll
+C:\Users\Balaji Segu\source\repos\HMS\HMS.BusinessLayer\obj\Debug\HMS.BusinessLayer.pdb
+C:\Users\Administrator\Downloads\HMS\HMS.BusinessLayer\bin\Debug\HMS.BusinessLayer.dll
+C:\Users\Administrator\Downloads\HMS\HMS.BusinessLayer\bin\Debug\HMS.BusinessLayer.pdb
+C:\Users\Administrator\Downloads\HMS\HMS.BusinessLayer\bin\Debug\HMS.DataAccessLayer.dll
+C:\Users\Administrator\Downloads\HMS\HMS.BusinessLayer\bin\Debug\HMS.Entities.dll
+C:\Users\Administrator\Downloads\HMS\HMS.BusinessLayer\bin\Debug\HMS.Exceptions.dll
+C:\Users\Administrator\Downloads\HMS\HMS.BusinessLayer\bin\Debug\HMS.DataAccessLayer.pdb
+C:\Users\Administrator\Downloads\HMS\HMS.BusinessLayer\bin\Debug\HMS.Entities.pdb
+C:\Users\Administrator\Downloads\HMS\HMS.BusinessLayer\bin\Debug\HMS.Exceptions.pdb
+C:\Users\Administrator\Downloads\HMS\HMS.BusinessLayer\obj\Debug\HMS.BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\HMS\HMS.BusinessLayer\obj\Debug\HMS.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\HMS\HMS.BusinessLayer\obj\Debug\HMS.BusinessLayer.csproj.CopyComplete
+C:\Users\Administrator\Downloads\HMS\HMS.BusinessLayer\obj\Debug\HMS.BusinessLayer.dll
+C:\Users\Administrator\Downloads\HMS\HMS.BusinessLayer\obj\Debug\HMS.BusinessLayer.pdb
+C:\Users\Administrator\Desktop\HMSM2\HMS\HMS.BusinessLayer\bin\Debug\HMS.BusinessLayer.dll
+C:\Users\Administrator\Desktop\HMSM2\HMS\HMS.BusinessLayer\bin\Debug\HMS.BusinessLayer.pdb
+C:\Users\Administrator\Desktop\HMSM2\HMS\HMS.BusinessLayer\bin\Debug\HMS.DataAccessLayer.dll
+C:\Users\Administrator\Desktop\HMSM2\HMS\HMS.BusinessLayer\bin\Debug\HMS.Entities.dll
+C:\Users\Administrator\Desktop\HMSM2\HMS\HMS.BusinessLayer\bin\Debug\HMS.Exceptions.dll
+C:\Users\Administrator\Desktop\HMSM2\HMS\HMS.BusinessLayer\bin\Debug\HMS.DataAccessLayer.pdb
+C:\Users\Administrator\Desktop\HMSM2\HMS\HMS.BusinessLayer\bin\Debug\HMS.Entities.pdb
+C:\Users\Administrator\Desktop\HMSM2\HMS\HMS.BusinessLayer\bin\Debug\HMS.Exceptions.pdb
+C:\Users\Administrator\Desktop\HMSM2\HMS\HMS.BusinessLayer\obj\Debug\HMS.BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\HMSM2\HMS\HMS.BusinessLayer\obj\Debug\HMS.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\HMSM2\HMS\HMS.BusinessLayer\obj\Debug\HMS.BusinessLayer.csproj.CopyComplete
+C:\Users\Administrator\Desktop\HMSM2\HMS\HMS.BusinessLayer\obj\Debug\HMS.BusinessLayer.dll
+C:\Users\Administrator\Desktop\HMSM2\HMS\HMS.BusinessLayer\obj\Debug\HMS.BusinessLayer.pdb
+E:\HMS - Copy\HMSM2\HMS\HMS.BusinessLayer\bin\Debug\HMS.BusinessLayer.dll
+E:\HMS - Copy\HMSM2\HMS\HMS.BusinessLayer\bin\Debug\HMS.BusinessLayer.pdb
+E:\HMS - Copy\HMSM2\HMS\HMS.BusinessLayer\bin\Debug\HMS.DataAccessLayer.dll
+E:\HMS - Copy\HMSM2\HMS\HMS.BusinessLayer\bin\Debug\HMS.Entities.dll
+E:\HMS - Copy\HMSM2\HMS\HMS.BusinessLayer\bin\Debug\HMS.Exceptions.dll
+E:\HMS - Copy\HMSM2\HMS\HMS.BusinessLayer\bin\Debug\HMS.DataAccessLayer.pdb
+E:\HMS - Copy\HMSM2\HMS\HMS.BusinessLayer\bin\Debug\HMS.Entities.pdb
+E:\HMS - Copy\HMSM2\HMS\HMS.BusinessLayer\bin\Debug\HMS.Exceptions.pdb
+E:\HMS - Copy\HMSM2\HMS\HMS.BusinessLayer\obj\Debug\HMS.BusinessLayer.csprojAssemblyReference.cache
+E:\HMS - Copy\HMSM2\HMS\HMS.BusinessLayer\obj\Debug\HMS.BusinessLayer.csproj.CoreCompileInputs.cache
+E:\HMS - Copy\HMSM2\HMS\HMS.BusinessLayer\obj\Debug\HMS.BusinessLayer.csproj.CopyComplete
+E:\HMS - Copy\HMSM2\HMS\HMS.BusinessLayer\obj\Debug\HMS.BusinessLayer.dll
+E:\HMS - Copy\HMSM2\HMS\HMS.BusinessLayer\obj\Debug\HMS.BusinessLayer.pdb
+C:\Users\Administrator\Desktop\HMS - Copy\HMSM2\HMS\HMS.BusinessLayer\bin\Debug\HMS.BusinessLayer.dll
+C:\Users\Administrator\Desktop\HMS - Copy\HMSM2\HMS\HMS.BusinessLayer\bin\Debug\HMS.BusinessLayer.pdb
+C:\Users\Administrator\Desktop\HMS - Copy\HMSM2\HMS\HMS.BusinessLayer\bin\Debug\HMS.DataAccessLayer.dll
+C:\Users\Administrator\Desktop\HMS - Copy\HMSM2\HMS\HMS.BusinessLayer\bin\Debug\HMS.Entities.dll
+C:\Users\Administrator\Desktop\HMS - Copy\HMSM2\HMS\HMS.BusinessLayer\bin\Debug\HMS.Exceptions.dll
+C:\Users\Administrator\Desktop\HMS - Copy\HMSM2\HMS\HMS.BusinessLayer\bin\Debug\HMS.DataAccessLayer.pdb
+C:\Users\Administrator\Desktop\HMS - Copy\HMSM2\HMS\HMS.BusinessLayer\bin\Debug\HMS.Entities.pdb
+C:\Users\Administrator\Desktop\HMS - Copy\HMSM2\HMS\HMS.BusinessLayer\bin\Debug\HMS.Exceptions.pdb
+C:\Users\Administrator\Desktop\HMS - Copy\HMSM2\HMS\HMS.BusinessLayer\obj\Debug\HMS.BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\HMS - Copy\HMSM2\HMS\HMS.BusinessLayer\obj\Debug\HMS.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\HMS - Copy\HMSM2\HMS\HMS.BusinessLayer\obj\Debug\HMS.BusinessLayer.csproj.CopyComplete
+C:\Users\Administrator\Desktop\HMS - Copy\HMSM2\HMS\HMS.BusinessLayer\obj\Debug\HMS.BusinessLayer.dll
+C:\Users\Administrator\Desktop\HMS - Copy\HMSM2\HMS\HMS.BusinessLayer\obj\Debug\HMS.BusinessLayer.pdb
+C:\Users\Administrator\Desktop\hms\HMSM2\HMS\HMS.BusinessLayer\bin\Debug\HMS.BusinessLayer.dll
+C:\Users\Administrator\Desktop\hms\HMSM2\HMS\HMS.BusinessLayer\bin\Debug\HMS.BusinessLayer.pdb
+C:\Users\Administrator\Desktop\hms\HMSM2\HMS\HMS.BusinessLayer\bin\Debug\HMS.DataAccessLayer.dll
+C:\Users\Administrator\Desktop\hms\HMSM2\HMS\HMS.BusinessLayer\bin\Debug\HMS.Entities.dll
+C:\Users\Administrator\Desktop\hms\HMSM2\HMS\HMS.BusinessLayer\bin\Debug\HMS.Exceptions.dll
+C:\Users\Administrator\Desktop\hms\HMSM2\HMS\HMS.BusinessLayer\bin\Debug\HMS.DataAccessLayer.pdb
+C:\Users\Administrator\Desktop\hms\HMSM2\HMS\HMS.BusinessLayer\bin\Debug\HMS.Entities.pdb
+C:\Users\Administrator\Desktop\hms\HMSM2\HMS\HMS.BusinessLayer\bin\Debug\HMS.Exceptions.pdb
+C:\Users\Administrator\Desktop\hms\HMSM2\HMS\HMS.BusinessLayer\obj\Debug\HMS.BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\hms\HMSM2\HMS\HMS.BusinessLayer\obj\Debug\HMS.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\hms\HMSM2\HMS\HMS.BusinessLayer\obj\Debug\HMS.BusinessLayer.csproj.CopyComplete
+C:\Users\Administrator\Desktop\hms\HMSM2\HMS\HMS.BusinessLayer\obj\Debug\HMS.BusinessLayer.dll
+C:\Users\Administrator\Desktop\hms\HMSM2\HMS\HMS.BusinessLayer\obj\Debug\HMS.BusinessLayer.pdb

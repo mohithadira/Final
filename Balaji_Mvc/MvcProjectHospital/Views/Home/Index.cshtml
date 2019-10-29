@@ -1,0 +1,87 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+<br />
+
+<h1 align="center"> Welcome To Capgemini Public Hospital</h1>
+<br />
+<br />
+
+<div align="center" class="alert-link">
+    <div>
+        <table class="table table-bordered">
+            <tr>
+                <th>
+                    Functions You want to perform 
+                </th>
+                <th>
+                    Links 
+                </th>
+            <tr>
+                <td>
+                    Add a New Patient
+                </td>
+                <td>
+                    @Html.ActionLink("New Patient", "Create", "Patients")
+                    <br />
+                </td>
+                </tr>
+            <tr>
+                <td>
+                    Modify Existing Patient Info
+                </td>
+                <td>
+                    @Html.ActionLink("Modify Patient", "Index", "Patients")
+                    <br />
+                </td>
+                </tr>
+            <tr>
+                <td>
+                    Add Patient Treatment Details
+                </td>
+                <td>
+                    @Html.ActionLink("Add Treatment Data", "Create", "PatientTreatments")
+                    <br />
+                </td>
+                </tr>
+            <tr>
+                <td>
+                    View Patient History
+                </td>
+                <td>
+                    @Html.ActionLink("Patient History", "CheckID", "PatientTreatments")
+                    <br />
+                </td>
+                </tr>
+            <tr>
+                <td>
+                    Search Patient Info
+                </td>
+                <td>
+                    @Html.ActionLink("Search", "Index", "PatientTreatments")
+                    <br />
+                </td>
+                </tr>
+            <tr>
+                <td>
+                    Generate Lab Report
+                </td>
+                <td>
+                    @Html.ActionLink("Lab Report", "Index", "Labs")
+                    <br />
+                </td>
+                </tr>
+            <tr>
+                <td>
+                    Generate Bill for Patient
+                </td>
+                <td>
+                    @Html.ActionLink("Bill", "Index", "Billdatas")
+                    <br />
+                </td>
+            </tr>
+        </table>
+    </div>
+</div>
+

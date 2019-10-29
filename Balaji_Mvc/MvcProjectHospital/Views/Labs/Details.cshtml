@@ -1,0 +1,77 @@
+﻿@model IEnumerable<MvcProjectHospital.Lab>
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Patient's Lab Report</h2>
+<br />
+
+<table class="table">
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <th>
+                Patient ID :
+            </th>
+            <td>
+                @Html.DisplayFor(modelItem => item.Patient.PatientID)
+            </td>
+            <th>
+                Name :
+            </th>
+            <td>
+                @Html.DisplayFor(modelItem => item.Patient.Name)
+            </td>
+            <th>
+                Age :
+            </th>
+            <td>
+                @Html.DisplayFor(modelItem => item.Patient.Age)
+            </td>
+        </tr>
+        <tr>
+            <th>
+                Report ID :
+            </th>
+            <td>
+                @Html.DisplayFor(modelItem => item.ReportId)
+            </td>
+            <th>
+                Doctor :
+            </th>
+            <td>
+                @Html.DisplayFor(modelItem => ViewData["doctorName"])
+            </td>
+            <th>
+                Patient Type :
+            </th>
+            <td>
+                @Html.DisplayFor(modelItem => ViewData["patientType"])
+            </td>
+            <th>
+                Test Type :
+            </th>
+            <td>
+                @Html.DisplayFor(modelItem => item.TestType)
+            </td>
+            <th>
+                Test Date :
+            </th>
+            <td>
+                @Html.DisplayFor(modelItem => item.TestDate)
+            </td>
+  
+        </tr>
+        <tr>
+            <th>
+                Remarks :
+            </th>
+            <td>
+                @Html.DisplayFor(modelItem => item.Remarks)
+            </td>
+        </tr>
+    }
+
+</table>

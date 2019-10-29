@@ -1,0 +1,66 @@
+C:\Users\Balaji Segu\source\repos\HMS\HMS.DataAccessLayer\bin\Debug\HMS.DataAccessLayer.dll
+C:\Users\Balaji Segu\source\repos\HMS\HMS.DataAccessLayer\bin\Debug\HMS.DataAccessLayer.pdb
+C:\Users\Balaji Segu\source\repos\HMS\HMS.DataAccessLayer\bin\Debug\HMS.Entities.dll
+C:\Users\Balaji Segu\source\repos\HMS\HMS.DataAccessLayer\bin\Debug\HMS.Exceptions.dll
+C:\Users\Balaji Segu\source\repos\HMS\HMS.DataAccessLayer\bin\Debug\HMS.Entities.pdb
+C:\Users\Balaji Segu\source\repos\HMS\HMS.DataAccessLayer\bin\Debug\HMS.Exceptions.pdb
+C:\Users\Balaji Segu\source\repos\HMS\HMS.DataAccessLayer\obj\Debug\HMS.DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\Balaji Segu\source\repos\HMS\HMS.DataAccessLayer\obj\Debug\HMS.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Balaji Segu\source\repos\HMS\HMS.DataAccessLayer\obj\Debug\HMS.DataAccessLayer.csproj.CopyComplete
+C:\Users\Balaji Segu\source\repos\HMS\HMS.DataAccessLayer\obj\Debug\HMS.DataAccessLayer.dll
+C:\Users\Balaji Segu\source\repos\HMS\HMS.DataAccessLayer\obj\Debug\HMS.DataAccessLayer.pdb
+C:\Users\Administrator\Downloads\HMS\HMS.DataAccessLayer\bin\Debug\HMS.DataAccessLayer.dll
+C:\Users\Administrator\Downloads\HMS\HMS.DataAccessLayer\bin\Debug\HMS.DataAccessLayer.pdb
+C:\Users\Administrator\Downloads\HMS\HMS.DataAccessLayer\bin\Debug\HMS.Entities.dll
+C:\Users\Administrator\Downloads\HMS\HMS.DataAccessLayer\bin\Debug\HMS.Exceptions.dll
+C:\Users\Administrator\Downloads\HMS\HMS.DataAccessLayer\bin\Debug\HMS.Entities.pdb
+C:\Users\Administrator\Downloads\HMS\HMS.DataAccessLayer\bin\Debug\HMS.Exceptions.pdb
+C:\Users\Administrator\Downloads\HMS\HMS.DataAccessLayer\obj\Debug\HMS.DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\HMS\HMS.DataAccessLayer\obj\Debug\HMS.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\HMS\HMS.DataAccessLayer\obj\Debug\HMS.DataAccessLayer.csproj.CopyComplete
+C:\Users\Administrator\Downloads\HMS\HMS.DataAccessLayer\obj\Debug\HMS.DataAccessLayer.dll
+C:\Users\Administrator\Downloads\HMS\HMS.DataAccessLayer\obj\Debug\HMS.DataAccessLayer.pdb
+C:\Users\Administrator\Desktop\HMSM2\HMS\HMS.DataAccessLayer\bin\Debug\HMS.DataAccessLayer.dll
+C:\Users\Administrator\Desktop\HMSM2\HMS\HMS.DataAccessLayer\bin\Debug\HMS.DataAccessLayer.pdb
+C:\Users\Administrator\Desktop\HMSM2\HMS\HMS.DataAccessLayer\bin\Debug\HMS.Entities.dll
+C:\Users\Administrator\Desktop\HMSM2\HMS\HMS.DataAccessLayer\bin\Debug\HMS.Exceptions.dll
+C:\Users\Administrator\Desktop\HMSM2\HMS\HMS.DataAccessLayer\bin\Debug\HMS.Entities.pdb
+C:\Users\Administrator\Desktop\HMSM2\HMS\HMS.DataAccessLayer\bin\Debug\HMS.Exceptions.pdb
+C:\Users\Administrator\Desktop\HMSM2\HMS\HMS.DataAccessLayer\obj\Debug\HMS.DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\HMSM2\HMS\HMS.DataAccessLayer\obj\Debug\HMS.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\HMSM2\HMS\HMS.DataAccessLayer\obj\Debug\HMS.DataAccessLayer.csproj.CopyComplete
+C:\Users\Administrator\Desktop\HMSM2\HMS\HMS.DataAccessLayer\obj\Debug\HMS.DataAccessLayer.dll
+C:\Users\Administrator\Desktop\HMSM2\HMS\HMS.DataAccessLayer\obj\Debug\HMS.DataAccessLayer.pdb
+E:\HMS - Copy\HMSM2\HMS\HMS.DataAccessLayer\bin\Debug\HMS.DataAccessLayer.dll
+E:\HMS - Copy\HMSM2\HMS\HMS.DataAccessLayer\bin\Debug\HMS.DataAccessLayer.pdb
+E:\HMS - Copy\HMSM2\HMS\HMS.DataAccessLayer\bin\Debug\HMS.Entities.dll
+E:\HMS - Copy\HMSM2\HMS\HMS.DataAccessLayer\bin\Debug\HMS.Exceptions.dll
+E:\HMS - Copy\HMSM2\HMS\HMS.DataAccessLayer\bin\Debug\HMS.Entities.pdb
+E:\HMS - Copy\HMSM2\HMS\HMS.DataAccessLayer\bin\Debug\HMS.Exceptions.pdb
+E:\HMS - Copy\HMSM2\HMS\HMS.DataAccessLayer\obj\Debug\HMS.DataAccessLayer.csprojAssemblyReference.cache
+E:\HMS - Copy\HMSM2\HMS\HMS.DataAccessLayer\obj\Debug\HMS.DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\HMS - Copy\HMSM2\HMS\HMS.DataAccessLayer\obj\Debug\HMS.DataAccessLayer.csproj.CopyComplete
+E:\HMS - Copy\HMSM2\HMS\HMS.DataAccessLayer\obj\Debug\HMS.DataAccessLayer.dll
+E:\HMS - Copy\HMSM2\HMS\HMS.DataAccessLayer\obj\Debug\HMS.DataAccessLayer.pdb
+C:\Users\Administrator\Desktop\HMS - Copy\HMSM2\HMS\HMS.DataAccessLayer\bin\Debug\HMS.DataAccessLayer.dll
+C:\Users\Administrator\Desktop\HMS - Copy\HMSM2\HMS\HMS.DataAccessLayer\bin\Debug\HMS.DataAccessLayer.pdb
+C:\Users\Administrator\Desktop\HMS - Copy\HMSM2\HMS\HMS.DataAccessLayer\bin\Debug\HMS.Entities.dll
+C:\Users\Administrator\Desktop\HMS - Copy\HMSM2\HMS\HMS.DataAccessLayer\bin\Debug\HMS.Exceptions.dll
+C:\Users\Administrator\Desktop\HMS - Copy\HMSM2\HMS\HMS.DataAccessLayer\bin\Debug\HMS.Entities.pdb
+C:\Users\Administrator\Desktop\HMS - Copy\HMSM2\HMS\HMS.DataAccessLayer\bin\Debug\HMS.Exceptions.pdb
+C:\Users\Administrator\Desktop\HMS - Copy\HMSM2\HMS\HMS.DataAccessLayer\obj\Debug\HMS.DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\HMS - Copy\HMSM2\HMS\HMS.DataAccessLayer\obj\Debug\HMS.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\HMS - Copy\HMSM2\HMS\HMS.DataAccessLayer\obj\Debug\HMS.DataAccessLayer.csproj.CopyComplete
+C:\Users\Administrator\Desktop\HMS - Copy\HMSM2\HMS\HMS.DataAccessLayer\obj\Debug\HMS.DataAccessLayer.dll
+C:\Users\Administrator\Desktop\HMS - Copy\HMSM2\HMS\HMS.DataAccessLayer\obj\Debug\HMS.DataAccessLayer.pdb
+C:\Users\Administrator\Desktop\hms\HMSM2\HMS\HMS.DataAccessLayer\bin\Debug\HMS.DataAccessLayer.dll
+C:\Users\Administrator\Desktop\hms\HMSM2\HMS\HMS.DataAccessLayer\bin\Debug\HMS.DataAccessLayer.pdb
+C:\Users\Administrator\Desktop\hms\HMSM2\HMS\HMS.DataAccessLayer\bin\Debug\HMS.Entities.dll
+C:\Users\Administrator\Desktop\hms\HMSM2\HMS\HMS.DataAccessLayer\bin\Debug\HMS.Exceptions.dll
+C:\Users\Administrator\Desktop\hms\HMSM2\HMS\HMS.DataAccessLayer\bin\Debug\HMS.Entities.pdb
+C:\Users\Administrator\Desktop\hms\HMSM2\HMS\HMS.DataAccessLayer\bin\Debug\HMS.Exceptions.pdb
+C:\Users\Administrator\Desktop\hms\HMSM2\HMS\HMS.DataAccessLayer\obj\Debug\HMS.DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\hms\HMSM2\HMS\HMS.DataAccessLayer\obj\Debug\HMS.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\hms\HMSM2\HMS\HMS.DataAccessLayer\obj\Debug\HMS.DataAccessLayer.csproj.CopyComplete
+C:\Users\Administrator\Desktop\hms\HMSM2\HMS\HMS.DataAccessLayer\obj\Debug\HMS.DataAccessLayer.dll
+C:\Users\Administrator\Desktop\hms\HMSM2\HMS\HMS.DataAccessLayer\obj\Debug\HMS.DataAccessLayer.pdb

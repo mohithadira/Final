@@ -1,0 +1,252 @@
+﻿@model IEnumerable<MvcProjectHospital.PatientTreatment>
+
+@{
+    ViewBag.Title = "PatientHistory";
+}
+
+<h2>Patient Complete History</h2><br />
+
+
+
+<table class="table">
+
+    @foreach (var item in Model)
+    {
+        if (item.PatientType == "Inpatient")
+        {
+            <tr>
+                <th>
+                    Patient ID:
+                </th>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Patient.PatientID)
+                </td>
+                <th>
+                    Name:
+                </th>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Patient.Name)
+                </td>
+                <th>
+                    Gender:
+                </th>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Patient.Gender)
+                </td>
+                <th>
+                    Age:
+                </th>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Patient.Age)
+                </td>
+                <th>
+                    Contact No.:
+                </th>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Patient.PhoneNo)
+                </td>
+                <th>
+                    Address:
+                </th>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Patient.Address)
+                </td>
+                <th>
+                    Weight:
+                </th>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Patient.Weight)
+                </td>
+                <th>
+                    Diease:
+                </th>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Patient.Disease)
+                </td>
+                <th></th>
+            </tr>
+
+            <tr>
+                <th>
+                    Appointment ID:
+                </th>
+                <td>
+                    @Html.DisplayFor(modelItem => item.AppointmentId)
+                </td>
+                <th>
+                    Doctor Name:
+                </th>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DoctorName)
+                </td>
+                <th>
+                    Room No.:
+                </th>
+                <td>
+                    @Html.DisplayFor(modelItem => item.RoomNo)
+                </td>
+                <th>
+                    Patient Type:
+                </th>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PatientType)
+                </td>
+
+                <th>
+                    Admission Date:
+                </th>
+                <td>
+                    @Html.DisplayFor(modelItem => item.AdmissionDate)
+                </td>
+                <th>
+                    Discharge Date:
+                </th>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DischargeDate)
+                </td>
+
+            </tr>
+            <tr>
+                <th>
+                    Report ID:
+                </th>
+                <td>
+                    @Html.DisplayFor(modelItem => ViewData["reportID"])
+                </td>
+                <th>
+                    Test Type:
+                </th>
+                <td>
+                    @Html.DisplayFor(modelItem => ViewData["testType"])
+                </td>
+            </tr>
+            <tr>
+                <th>
+                    Remarks:
+                </th>
+                <td>
+                    @Html.DisplayFor(modelItem => ViewData["remarks"])
+                </td>
+            </tr>
+
+        }
+        if (item.PatientType == "Outpatient")
+        {
+            <tr>
+                <th>
+                    Patient ID :
+                </th>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Patient.PatientID)
+                </td>
+                <th>
+                    Name :
+                </th>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Patient.Name)
+                </td>
+                <th>
+                    Gender :
+                </th>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Patient.Gender)
+                </td>
+                <th>
+                    Age :
+                </th>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Patient.Age)
+                </td>
+                <th>
+                    Contact No. :
+                </th>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Patient.PhoneNo)
+                </td>
+                <th>
+                    Address :
+                </th>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Patient.Address)
+                </td>
+                <th>
+                    Weight :
+                </th>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Patient.Weight)
+                </td>
+                <th>
+                    Diease :
+                </th>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Patient.Disease)
+                </td>
+                <th></th>
+            </tr>
+
+            <tr>
+                <th>
+                    Appointment ID:
+                </th>
+                <td>
+                    @Html.DisplayFor(modelItem => item.AppointmentId)
+                </td>
+                <th>
+                    Doctor Name:
+                </th>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DoctorName)
+                </td>
+                <th>
+                    Room No.:
+                </th>
+                <td>
+                    @Html.DisplayFor(modelItem => item.RoomNo)
+                </td>
+                <th>
+                    Patient Type:
+                </th>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PatientType)
+                </td>
+
+                <th>
+                    Visit Date:
+                </th>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DateOfVisit)
+                </td>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.DischargeDate)
+                </td>
+
+            </tr>
+            <tr>
+                <th>
+                    Report ID:
+                </th>
+                <td>
+                    @Html.DisplayFor(modelItem => ViewData["reportID"])
+                </td>
+                <th>
+                    Test Type:
+                </th>
+                <td>
+                    @Html.DisplayFor(modelItem => ViewData["testType"])
+                </td>
+            </tr>
+            <tr>
+                <th>
+                    Remarks:
+                </th>
+                <td>
+                    @Html.DisplayFor(modelItem => ViewData["remarks"])
+                </td>
+            </tr>
+
+        }
+    }
+    
+
+</table>
