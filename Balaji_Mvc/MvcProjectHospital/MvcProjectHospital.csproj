@@ -171,8 +171,10 @@
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\Images\background.jpg" />
+    <Content Include="Content\Images\imimim.jpg" />
     <Content Include="Content\Images\hospital02.jpg" />
     <Content Include="Content\Images\hospital1.jpg" />
+    <Content Include="Content\Images\newimim.jpg" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />

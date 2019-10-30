@@ -76,3 +76,16 @@ C:\Users\Administrator\Desktop\hms\HMSM2\HMS\HMS.BusinessLayer\obj\Debug\HMS.Bus
 C:\Users\Administrator\Desktop\hms\HMSM2\HMS\HMS.BusinessLayer\obj\Debug\HMS.BusinessLayer.csproj.CopyComplete
 C:\Users\Administrator\Desktop\hms\HMSM2\HMS\HMS.BusinessLayer\obj\Debug\HMS.BusinessLayer.dll
 C:\Users\Administrator\Desktop\hms\HMSM2\HMS\HMS.BusinessLayer\obj\Debug\HMS.BusinessLayer.pdb
+C:\Users\Administrator\Desktop\Final\Final\hms\HMSM2\HMS\HMS.BusinessLayer\bin\Debug\HMS.BusinessLayer.dll
+C:\Users\Administrator\Desktop\Final\Final\hms\HMSM2\HMS\HMS.BusinessLayer\bin\Debug\HMS.BusinessLayer.pdb
+C:\Users\Administrator\Desktop\Final\Final\hms\HMSM2\HMS\HMS.BusinessLayer\bin\Debug\HMS.DataAccessLayer.dll
+C:\Users\Administrator\Desktop\Final\Final\hms\HMSM2\HMS\HMS.BusinessLayer\bin\Debug\HMS.Entities.dll
+C:\Users\Administrator\Desktop\Final\Final\hms\HMSM2\HMS\HMS.BusinessLayer\bin\Debug\HMS.Exceptions.dll
+C:\Users\Administrator\Desktop\Final\Final\hms\HMSM2\HMS\HMS.BusinessLayer\bin\Debug\HMS.DataAccessLayer.pdb
+C:\Users\Administrator\Desktop\Final\Final\hms\HMSM2\HMS\HMS.BusinessLayer\bin\Debug\HMS.Entities.pdb
+C:\Users\Administrator\Desktop\Final\Final\hms\HMSM2\HMS\HMS.BusinessLayer\bin\Debug\HMS.Exceptions.pdb
+C:\Users\Administrator\Desktop\Final\Final\hms\HMSM2\HMS\HMS.BusinessLayer\obj\Debug\HMS.BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Final\Final\hms\HMSM2\HMS\HMS.BusinessLayer\obj\Debug\HMS.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Final\Final\hms\HMSM2\HMS\HMS.BusinessLayer\obj\Debug\HMS.BusinessLayer.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Final\Final\hms\HMSM2\HMS\HMS.BusinessLayer\obj\Debug\HMS.BusinessLayer.dll
+C:\Users\Administrator\Desktop\Final\Final\hms\HMSM2\HMS\HMS.BusinessLayer\obj\Debug\HMS.BusinessLayer.pdb

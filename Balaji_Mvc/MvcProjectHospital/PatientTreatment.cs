@@ -11,8 +11,7 @@ namespace MvcProjectHospital
 {
     using System;
     using System.Collections.Generic;
-    using System.ComponentModel.DataAnnotations;
-    using System.Web.Mvc;
+    
     public partial class PatientTreatment
     {
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
@@ -21,30 +20,14 @@ namespace MvcProjectHospital
             this.BillDatas = new HashSet<BillData>();
             this.Labs = new HashSet<Lab>();
         }
-
+    
         public int AppointmentId { get; set; }
-        [Required(ErrorMessage = "Doctor Name is Required !")]
         public string DoctorName { get; set; }
-
         public string RoomNo { get; set; }
-
-        [DataType(DataType.Date)]
-        [DisplayFormat(ApplyFormatInEditMode = true, DataFormatString ="{0:dd-MM-yyyy}")]
         public Nullable<System.DateTime> DateOfVisit { get; set; }
-
-        [DataType(DataType.Date)]
-        [DisplayFormat(ApplyFormatInEditMode = true, DataFormatString = "{0:dd-MM-yyyy}")]
         public Nullable<System.DateTime> AdmissionDate { get; set; }
-
-        [DataType(DataType.Date)]
-        [DisplayFormat(ApplyFormatInEditMode = true, DataFormatString = "{0:dd-MM-yyyy}")]
         public Nullable<System.DateTime> DischargeDate { get; set; }
-
-        [Required(ErrorMessage = "Patient type is Required !")]
         public string PatientType { get; set; }
-
-        [Required(ErrorMessage = "Patient id is Required !")]
-        [Remote("CheckExistingId", "Patients", ErrorMessage = "Patient Id does not exist")]
         public int PatientID { get; set; }
     
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]

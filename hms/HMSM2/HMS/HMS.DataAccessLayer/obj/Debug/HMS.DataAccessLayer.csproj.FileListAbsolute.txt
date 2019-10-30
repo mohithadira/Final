@@ -64,3 +64,14 @@ C:\Users\Administrator\Desktop\hms\HMSM2\HMS\HMS.DataAccessLayer\obj\Debug\HMS.D
 C:\Users\Administrator\Desktop\hms\HMSM2\HMS\HMS.DataAccessLayer\obj\Debug\HMS.DataAccessLayer.csproj.CopyComplete
 C:\Users\Administrator\Desktop\hms\HMSM2\HMS\HMS.DataAccessLayer\obj\Debug\HMS.DataAccessLayer.dll
 C:\Users\Administrator\Desktop\hms\HMSM2\HMS\HMS.DataAccessLayer\obj\Debug\HMS.DataAccessLayer.pdb
+C:\Users\Administrator\Desktop\Final\Final\hms\HMSM2\HMS\HMS.DataAccessLayer\bin\Debug\HMS.DataAccessLayer.dll
+C:\Users\Administrator\Desktop\Final\Final\hms\HMSM2\HMS\HMS.DataAccessLayer\bin\Debug\HMS.DataAccessLayer.pdb
+C:\Users\Administrator\Desktop\Final\Final\hms\HMSM2\HMS\HMS.DataAccessLayer\bin\Debug\HMS.Entities.dll
+C:\Users\Administrator\Desktop\Final\Final\hms\HMSM2\HMS\HMS.DataAccessLayer\bin\Debug\HMS.Exceptions.dll
+C:\Users\Administrator\Desktop\Final\Final\hms\HMSM2\HMS\HMS.DataAccessLayer\bin\Debug\HMS.Entities.pdb
+C:\Users\Administrator\Desktop\Final\Final\hms\HMSM2\HMS\HMS.DataAccessLayer\bin\Debug\HMS.Exceptions.pdb
+C:\Users\Administrator\Desktop\Final\Final\hms\HMSM2\HMS\HMS.DataAccessLayer\obj\Debug\HMS.DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Final\Final\hms\HMSM2\HMS\HMS.DataAccessLayer\obj\Debug\HMS.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Final\Final\hms\HMSM2\HMS\HMS.DataAccessLayer\obj\Debug\HMS.DataAccessLayer.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Final\Final\hms\HMSM2\HMS\HMS.DataAccessLayer\obj\Debug\HMS.DataAccessLayer.dll
+C:\Users\Administrator\Desktop\Final\Final\hms\HMSM2\HMS\HMS.DataAccessLayer\obj\Debug\HMS.DataAccessLayer.pdb

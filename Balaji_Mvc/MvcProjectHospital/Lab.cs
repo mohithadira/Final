@@ -11,25 +11,14 @@ namespace MvcProjectHospital
 {
     using System;
     using System.Collections.Generic;
-    using System.ComponentModel.DataAnnotations;
-
+    
     public partial class Lab
     {
         public int ReportId { get; set; }
-
-        [DataType(DataType.Date)]
-        [DisplayFormat(ApplyFormatInEditMode = true, DataFormatString = "{0:dd-MM-yyyy}")]
         public System.DateTime TestDate { get; set; }
-
         public string Remarks { get; set; }
-
-        [Required(ErrorMessage = "Test type is Required !")]
         public string TestType { get; set; }
-
-        [Required(ErrorMessage = "Patient id is Required !")]
         public int PatientID { get; set; }
-
-        [Required(ErrorMessage = "Appointment is Required !")]
         public int AppointmentId { get; set; }
     
         public virtual PatientTreatment PatientTreatment { get; set; }

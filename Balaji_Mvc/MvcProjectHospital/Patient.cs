@@ -11,7 +11,7 @@ namespace MvcProjectHospital
 {
     using System;
     using System.Collections.Generic;
-    using System.ComponentModel.DataAnnotations;
+    
     public partial class Patient
     {
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
@@ -23,20 +23,10 @@ namespace MvcProjectHospital
         }
     
         public int PatientID { get; set; }
-        [Required(ErrorMessage = "Patient Name is Required !")]
         public string Name { get; set; }
-        [Required(ErrorMessage = "Patient Gender is Required !")]
         public string Gender { get; set; }
-        [Required(ErrorMessage = "Age is Required !")]
-        [Range(1, 150)]
         public int Age { get; set; }
-        [Required(ErrorMessage = "Address Required !")]
-        [StringLength(30, MinimumLength = 2, ErrorMessage = "Please enter Address")]
         public string Address { get; set; }
-        [Required(ErrorMessage = "Contact Number Required!")]
-        [DataType(DataType.PhoneNumber)]
-        [Display(Name = "Phone Number")]
-        [RegularExpression(@"^\(?([6-9]{1})\)?[-. ]?([0-9]{5})[-. ]?([0-9]{4})$", ErrorMessage = "Please enter valid contact number")]
         public long PhoneNo { get; set; }
         public int Weight { get; set; }
         public string Disease { get; set; }

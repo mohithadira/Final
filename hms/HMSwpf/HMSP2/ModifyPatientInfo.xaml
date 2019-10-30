@@ -7,8 +7,8 @@
         mc:Ignorable="d"
         Title="ModifyPatientInfo" Height="450" Width="800">
     <Grid>
-        <Grid Background="#FF75CEC6">
-            <Label Content="&#x9;Patient Information" HorizontalAlignment="Left" Margin="230,18,0,0" VerticalAlignment="Top" Background="#FFBD54B6" Width="352" FontFamily="Comic Sans MS" FontWeight="Bold" FontSize="20"/>
+        <Grid Background="#FFE2C4E0">
+            <Label Content="&#x9;                                    Patient Information" HorizontalAlignment="Left" Margin="0,18,0,0" VerticalAlignment="Top" Background="#FF7F73CE" Width="792" FontFamily="Global Sans Serif" FontWeight="Bold" FontSize="20"/>
             <Label Content="Modify the patient infromation below:" HorizontalAlignment="Left" Margin="32,60,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="14"/>
             <Label Name="LblPatientId" Content="Patient Id:" HorizontalAlignment="Left" Margin="32,104,0,0" VerticalAlignment="Top"/>
             <Label Name="LblPhoneNo" Content="Phone No:" HorizontalAlignment="Left" Margin="383,169,0,0" VerticalAlignment="Top"/>
@@ -26,11 +26,11 @@
             <TextBox Name="txtPhoneNo" HorizontalAlignment="Left" Height="23" Margin="471,169,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="206"/>
             <TextBox Name="txtWeight" HorizontalAlignment="Left" Height="23" Margin="471,236,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="206"/>
             <TextBox Name="txtDisease" HorizontalAlignment="Left" Height="23" Margin="471,310,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="206" RenderTransformOrigin="0.492,0.62"/>
-            <Button Name="Btn_Modify" Content="Modify" HorizontalAlignment="Left" Margin="471,373,0,0" VerticalAlignment="Top" Width="75" Background="#FF59E250" Click="Btn_Modify_Click"/>
-            <Button Name="Btn_BackToMenu" Content="Back to Menu" HorizontalAlignment="Left" Margin="561,373,0,0" VerticalAlignment="Top" Width="116" Background="#FFCB4063" Click="Btn_BackToMenu_Click"/>
+            <Button Name="Btn_Modify" Content="Modify" HorizontalAlignment="Left" Margin="471,373,0,0" VerticalAlignment="Top" Width="75" Background="#FF7F73CE" Click="Btn_Modify_Click"/>
+            <Button Name="Btn_BackToMenu" Content="Back to Menu" HorizontalAlignment="Left" Margin="561,373,0,0" VerticalAlignment="Top" Width="116" Background="#FF7F73CE" Click="Btn_BackToMenu_Click"/>
             <TextBox Name="txtAge" HorizontalAlignment="Left" Height="23" Margin="101,310,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="156"/>
-            <Button x:Name="btnSubmit" Content="Submit" HorizontalAlignment="Left" Margin="270,110,0,0" VerticalAlignment="Top" Width="50" Background="#FF5AD437" Click="BtnSubmit_Click"/>
-            <Button x:Name="btnBack" Content="Back" HorizontalAlignment="Left" Margin="331,110,0,0" VerticalAlignment="Top" Width="47" Background="#FF45D32E" Click="BtnBack_Click"/>
+            <Button x:Name="btnSubmit" Content="Submit" HorizontalAlignment="Left" Margin="270,110,0,0" VerticalAlignment="Top" Width="50" Background="#FF7F73CE" Click="BtnSubmit_Click"/>
+            <Button x:Name="btnBack" Content="Back" HorizontalAlignment="Left" Margin="331,110,0,0" VerticalAlignment="Top" Width="47" Background="#FF7F73CE" Click="BtnBack_Click"/>
 
         </Grid>
     </Grid>

@@ -6,10 +6,10 @@
         xmlns:local="clr-namespace:HMSPresentation"
         mc:Ignorable="d"
         Title="BillData" Height="450" Width="800">
-    <Grid Background="#FF9ADBEA">
-        <Button x:Name="Btn_Submit" Content="Submit" HorizontalAlignment="Left" Margin="637,362,0,0" VerticalAlignment="Top" Width="75" Background="#FF53B958" Click="Btn_Submit_Click"/>
-        <Button x:Name="Btn_Back" Content="Back" HorizontalAlignment="Left" Margin="537,362,0,0" VerticalAlignment="Top" Width="75" Background="#FF74DA79" Click="Btn_Back_Click"/>
-        <Label Content="Bill Details" HorizontalAlignment="Left" Margin="323,23,0,0" VerticalAlignment="Top" Background="#FFC79BF3" FontFamily="Comic Sans MS" FontWeight="Bold" FontSize="20"/>
+    <Grid Background="#FFE2C4E0">
+        <Button x:Name="Btn_Submit" Content="Submit" HorizontalAlignment="Left" Margin="637,362,0,0" VerticalAlignment="Top" Width="75" Background="#FF7F73CE" Click="Btn_Submit_Click"/>
+        <Button x:Name="Btn_Back" Content="Back" HorizontalAlignment="Left" Margin="537,362,0,0" VerticalAlignment="Top" Width="75" Background="#FF7F73CE" Click="Btn_Back_Click"/>
+        <Label Content="                                                            Bill Details" HorizontalAlignment="Left" Margin="0,23,0,0" VerticalAlignment="Top" Background="#FF7F73CE" FontFamily="Global Sans Serif" FontWeight="Bold" FontSize="20" Width="792"/>
         <Label Content="Please enter the bill details:" HorizontalAlignment="Left" Margin="60,78,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="14"/>
         <Label Name="LblPatienId" Content="Patient Id:" HorizontalAlignment="Left" Margin="60,126,0,0" VerticalAlignment="Top"/>
         <Label Name="LblBillNo" Content="Bill No:" HorizontalAlignment="Left" Margin="60,181,0,0" VerticalAlignment="Top"/>

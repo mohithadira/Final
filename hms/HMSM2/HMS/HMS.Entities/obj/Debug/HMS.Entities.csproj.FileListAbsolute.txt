@@ -28,3 +28,9 @@ C:\Users\Administrator\Desktop\hms\HMSM2\HMS\HMS.Entities\obj\Debug\HMS.Entities
 C:\Users\Administrator\Desktop\hms\HMSM2\HMS\HMS.Entities\obj\Debug\HMS.Entities.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\Desktop\hms\HMSM2\HMS\HMS.Entities\obj\Debug\HMS.Entities.dll
 C:\Users\Administrator\Desktop\hms\HMSM2\HMS\HMS.Entities\obj\Debug\HMS.Entities.pdb
+C:\Users\Administrator\Desktop\Final\Final\hms\HMSM2\HMS\HMS.Entities\bin\Debug\HMS.Entities.dll
+C:\Users\Administrator\Desktop\Final\Final\hms\HMSM2\HMS\HMS.Entities\bin\Debug\HMS.Entities.pdb
+C:\Users\Administrator\Desktop\Final\Final\hms\HMSM2\HMS\HMS.Entities\obj\Debug\HMS.Entities.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Final\Final\hms\HMSM2\HMS\HMS.Entities\obj\Debug\HMS.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Final\Final\hms\HMSM2\HMS\HMS.Entities\obj\Debug\HMS.Entities.dll
+C:\Users\Administrator\Desktop\Final\Final\hms\HMSM2\HMS\HMS.Entities\obj\Debug\HMS.Entities.pdb

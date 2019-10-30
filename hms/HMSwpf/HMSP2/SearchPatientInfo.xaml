@@ -6,18 +6,18 @@
         xmlns:local="clr-namespace:HMSPresentation"
         mc:Ignorable="d"
         Title="SearchPatientInfo" Height="450" Width="800">
-    <Grid Background="#FFDABDC4">
+    <Grid Background="#FFE2C4E0">
 
-        <DataGrid Name="DataGridPatientInfo" ItemsSource="{Binding}" HorizontalAlignment="Left" Height="328" Margin="243,56,0,0" VerticalAlignment="Top" Width="526" Background="#FF95EADE"/>
+        <DataGrid Name="DataGridPatientInfo" ItemsSource="{Binding}" HorizontalAlignment="Left" Height="328" Margin="243,56,0,0" VerticalAlignment="Top" Width="526" Background="#FFCDB15C"/>
         <RadioButton Name="RdBtnPatientId" Content="Search By Patient Id" HorizontalAlignment="Left" Margin="20,99,0,0" VerticalAlignment="Top" Background="{x:Null}" Checked="RdBtnPatientId_Checked"/>
         <RadioButton Name="RdBtnDateOfVisit" Content="Search By Date Of Visit" HorizontalAlignment="Left" Margin="20,145,0,0" VerticalAlignment="Top" Background="{x:Null}" Checked="RdBtnDateOfVisit_Checked"/>
         <RadioButton Name="RdBtnDoctorName" Content="Search By Doctor Name" HorizontalAlignment="Left" Margin="20,195,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.518,0.267" Background="{x:Null}" Checked="RdBtnDoctorName_Checked"/>
         <RadioButton Name="RdBtnDateOfAdmission" Content="Search By Date Of Admission" HorizontalAlignment="Left" Margin="20,238,0,0" VerticalAlignment="Top" Background="{x:Null}" Checked="RdBtnDateOfAdmission_Checked"/>
         <Label Content="Select any option:" HorizontalAlignment="Left" Margin="19,56,0,0" VerticalAlignment="Top" Width="174" Background="{x:Null}" FontFamily="Times New Roman" FontSize="16" FontWeight="Bold"/>
-        <Button x:Name="Btn_DisplayDetails" Content="Display Details" HorizontalAlignment="Left" Margin="137,364,0,0" VerticalAlignment="Top" Width="88" RenderTransformOrigin="0.387,0.8" Background="#FF4EE462" Click="DisplayDetails_Click" />
-        <Label Content="Search patient Info" HorizontalAlignment="Left" Margin="269,10,0,0" VerticalAlignment="Top" Background="#FFD67FF7" FontFamily="Comic Sans MS" FontWeight="Bold" FontSize="20"/>
+        <Button x:Name="Btn_DisplayDetails" Content="Display Details" HorizontalAlignment="Left" Margin="137,364,0,0" VerticalAlignment="Top" Width="88" RenderTransformOrigin="0.387,0.8" Background="#FF7F73CE" Click="DisplayDetails_Click" />
+        <Label Content="                                                   Search patient Info" HorizontalAlignment="Left" Margin="0,10,0,0" VerticalAlignment="Top" Background="#FF7F73CE" FontFamily="Global Sans Serif" FontWeight="Bold" FontSize="20" Width="792"/>
         <TextBox Name="txtSearch" HorizontalAlignment="Left" Height="23" Margin="24,317,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="201" RenderTransformOrigin="0.483,0.87"/>
-        <Button x:Name="Btn_BackToMenu" Content="Back to Menu" HorizontalAlignment="Left" Margin="19,364,0,0" VerticalAlignment="Top" Width="83" Background="#FFEA5721" Click="Btn_BackToMenu_Click"/>
+        <Button x:Name="Btn_BackToMenu" Content="Back to Menu" HorizontalAlignment="Left" Margin="19,364,0,0" VerticalAlignment="Top" Width="83" Background="#FF7F73CE" Click="Btn_BackToMenu_Click"/>
         <DatePicker Name="DateSearch" HorizontalAlignment="Left" Margin="23,316,0,0" VerticalAlignment="Top" Width="202"/>
         <Label Name="lblSearch" Content="" HorizontalAlignment="Left" Margin="20,273,0,0" VerticalAlignment="Top"/>
 

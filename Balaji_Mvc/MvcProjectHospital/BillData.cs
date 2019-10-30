@@ -11,32 +11,18 @@ namespace MvcProjectHospital
 {
     using System;
     using System.Collections.Generic;
-    using System.ComponentModel.DataAnnotations;
-
+    
     public partial class BillData
     {
         public int BillNo { get; set; }
-
-        [Required(ErrorMessage = "Doctor Fees is required")]
         public int DoctorFees { get; set; }
-
         public Nullable<int> RoomCharge { get; set; }
         public Nullable<int> OperationCharge { get; set; }
-
-        [Required(ErrorMessage = "Medicine fees is required")]
         public int MedicineFees { get; set; }
-
         public Nullable<int> TotalDays { get; set; }
-
-        [Required(ErrorMessage = "Lab fees is required")]
         public int LabFees { get; set; }
-
         public int TotalAmount { get; set; }
-
-        [Required(ErrorMessage = "Patient Id is required")]
         public int PatientID { get; set; }
-
-        [Required(ErrorMessage = "Appointment Id is required")]
         public int AppointmentId { get; set; }
     
         public virtual PatientTreatment PatientTreatment { get; set; }

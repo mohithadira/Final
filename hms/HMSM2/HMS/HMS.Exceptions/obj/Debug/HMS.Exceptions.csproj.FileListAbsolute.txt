@@ -22,3 +22,9 @@ C:\Users\Administrator\Desktop\hms\HMSM2\HMS\HMS.Exceptions\obj\Debug\HMS.Except
 C:\Users\Administrator\Desktop\hms\HMSM2\HMS\HMS.Exceptions\obj\Debug\HMS.Exceptions.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\Desktop\hms\HMSM2\HMS\HMS.Exceptions\obj\Debug\HMS.Exceptions.dll
 C:\Users\Administrator\Desktop\hms\HMSM2\HMS\HMS.Exceptions\obj\Debug\HMS.Exceptions.pdb
+C:\Users\Administrator\Desktop\Final\Final\hms\HMSM2\HMS\HMS.Exceptions\bin\Debug\HMS.Exceptions.dll
+C:\Users\Administrator\Desktop\Final\Final\hms\HMSM2\HMS\HMS.Exceptions\bin\Debug\HMS.Exceptions.pdb
+C:\Users\Administrator\Desktop\Final\Final\hms\HMSM2\HMS\HMS.Exceptions\obj\Debug\HMS.Exceptions.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Final\Final\hms\HMSM2\HMS\HMS.Exceptions\obj\Debug\HMS.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Final\Final\hms\HMSM2\HMS\HMS.Exceptions\obj\Debug\HMS.Exceptions.dll
+C:\Users\Administrator\Desktop\Final\Final\hms\HMSM2\HMS\HMS.Exceptions\obj\Debug\HMS.Exceptions.pdb

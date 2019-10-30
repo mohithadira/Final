@@ -51,14 +51,18 @@
     <Compile Include="HMS.EntityLayer\PatientAppointmentIn.cs" />
     <Compile Include="HMS.EntityLayer\PatientAppointmentOut.cs" />
     <Compile Include="HMS.EntityLayer\Treatment.cs" />
+    <Compile Include="HMS.ExceptionLayer\AgeException.cs" />
+    <Compile Include="HMS.ExceptionLayer\AmountException.cs" />
+    <Compile Include="HMS.ExceptionLayer\DaysException.cs" />
+    <Compile Include="HMS.ExceptionLayer\NoPatientException.cs" />
+    <Compile Include="HMS.ExceptionLayer\NoTreatmentException.cs" />
+    <Compile Include="HMS.ExceptionLayer\UniquenessException.cs" />
     <Compile Include="HMS.PresentationLayer\Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="HMS.ExceptionLayer\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

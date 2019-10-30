@@ -7,13 +7,13 @@
         mc:Ignorable="d"
         Title="FindBillData" Height="450" Width="800">
     <Grid>
-        <Grid Background="#FF9FDCCE">
-            <Label Content="Patient Bill Details" HorizontalAlignment="Left" Margin="336,16,0,0" VerticalAlignment="Top" FontFamily="Comic Sans MS" FontWeight="Bold" FontSize="20" Background="#FFDEABE0"/>
+        <Grid Background="#FFE2C4E0">
+            <Label Content="                                                   Patient Bill Details" HorizontalAlignment="Left" Margin="0,16,0,0" VerticalAlignment="Top" FontFamily="Global Sans Serif" FontWeight="Bold" FontSize="20" Background="#FF7F73CE" Width="792"/>
             <Label Content="Enter patient id to find the bill details:" HorizontalAlignment="Left" Margin="99,79,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="14"/>
             <TextBox Name="txtPatientId" HorizontalAlignment="Left" Height="23" Margin="336,79,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
-            <Button Name="Btn_Submit" Content="Submit" HorizontalAlignment="Left" Margin="488,82,0,0" VerticalAlignment="Top" Width="75" Background="#FFA0E77A" Click="Btn_Submit_Click"/>
-            <DataGrid Name="DataGridBillData" ItemsSource="{Binding}" HorizontalAlignment="Left" Height="258" Margin="104,119,0,0" VerticalAlignment="Top" Width="598" Background="#FF9DE1E5"/>
-            <Button Name="Btn_BackToMenu" Content="Back to Menu" HorizontalAlignment="Left" Margin="361,391,0,0" VerticalAlignment="Top" Width="84" Background="#FFD17E56" Click="Btn_BackToMenu_Click"/>
+            <Button Name="Btn_Submit" Content="Submit" HorizontalAlignment="Left" Margin="488,82,0,0" VerticalAlignment="Top" Width="75" Background="#FF7F73CE" Click="Btn_Submit_Click"/>
+            <DataGrid Name="DataGridBillData" ItemsSource="{Binding}" HorizontalAlignment="Left" Height="258" Margin="104,119,0,0" VerticalAlignment="Top" Width="598" Background="#FFCDB15C"/>
+            <Button Name="Btn_BackToMenu" Content="Back to Menu" HorizontalAlignment="Left" Margin="361,391,0,0" VerticalAlignment="Top" Width="84" Background="#FF7F73CE" Click="Btn_BackToMenu_Click"/>
 
         </Grid>
     </Grid>

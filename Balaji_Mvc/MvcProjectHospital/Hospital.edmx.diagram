@@ -5,10 +5,10 @@
     <!-- Diagram content (shape and connector positions) -->
     <edmx:Diagrams>
       <Diagram DiagramId="15504d7304e14d94915a4ca2b59ca9a0" Name="Diagram1">
-        <EntityTypeShape EntityType="HospitalMvcModel.BillData" Width="1.5" PointX="5.25" PointY="8.625" IsExpanded="true" />
-        <EntityTypeShape EntityType="HospitalMvcModel.Lab" Width="1.5" PointX="8.25" PointY="9" IsExpanded="true" />
+        <EntityTypeShape EntityType="HospitalMvcModel.BillData" Width="1.5" PointX="3.375" PointY="3.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="HospitalMvcModel.Lab" Width="1.5" PointX="3.375" PointY="7.375" IsExpanded="true" />
         <EntityTypeShape EntityType="HospitalMvcModel.Patient" Width="1.5" PointX="0.75" PointY="5" IsExpanded="true" />
-        <EntityTypeShape EntityType="HospitalMvcModel.PatientTreatment" Width="1.5" PointX="3" PointY="12.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="HospitalMvcModel.PatientTreatment" Width="1.5" PointX="5.625" PointY="5.125" IsExpanded="true" />
         <AssociationConnector Association="HospitalMvcModel.FK__BillData__Appoin__1B0907CE" ManuallyRouted="false" />
         <AssociationConnector Association="HospitalMvcModel.FK__BillData__Patien__1A14E395" ManuallyRouted="false" />
         <AssociationConnector Association="HospitalMvcModel.FK__Lab__Appointment__173876EA" ManuallyRouted="false" />

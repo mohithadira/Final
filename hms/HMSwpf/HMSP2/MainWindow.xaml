@@ -5,19 +5,17 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:HMSPresentation"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Hospital Management System" Height="450" Width="800">
     <Grid Background="#FFE2C4E0">
-        <Label Content="*****************Welcome to Hospital Management System***************" HorizontalAlignment="Left" Margin="17,17,0,0" VerticalAlignment="Top" Background="#FF7F73CE" BorderBrush="#FFDF1313" FontFamily="Comic Sans MS" FontSize="20" Width="752"/>
-        <Button Name="Btn_AddPatientInfo" Content="Add Patient Info" HorizontalAlignment="Left" Margin="23,122,0,0" VerticalAlignment="Top" Width="139" Background="#FF27CB0E" Click="AddPatientInfo_Click"/>
-        <Button Name="Btn_AddAppointmentData" Content="Add Appointment Data" HorizontalAlignment="Left" Margin="23,152,0,0" VerticalAlignment="Top" Width="139" Background="#FFC7AE64" Click="Btn_AddAppointmentData_Click"/>
-        <Button Name="Btn_ModifyPatientInfo" Content="Modify Patient Info" HorizontalAlignment="Left" Margin="23,184,0,0" VerticalAlignment="Top" Width="139" RenderTransformOrigin="0.441,0.722" Background="#FF6DC814" Click="Btn_ModifyPatientInfo_Click"/>
-        <Button Name="Btn_SearchPatientInfo" Content="Search Patient Info" HorizontalAlignment="Left" Margin="23,214,0,0" VerticalAlignment="Top" Width="139" RenderTransformOrigin="0.441,0.722" Background="#FFCAB063" Click="Btn_SearchPatientInfo_Click"/>
-        <Button Name="Btn_FindLabReport" Content="Find Lab Report" HorizontalAlignment="Left" Margin="23,245,0,0" VerticalAlignment="Top" Width="139" RenderTransformOrigin="0.441,0.722" Background="#FF44BD16" Click="Btn_FindLabReport_Click"/>
-        <Button Name="Btn_FindBillData" Content="Find Bill Data" HorizontalAlignment="Left" Margin="23,275,0,0" VerticalAlignment="Top" Width="139" RenderTransformOrigin="0.441,0.722" Background="#FFCDB15C" Click="Btn_FindBillData_Click"/>
-        <Label Content="Choose from options below:" HorizontalAlignment="Left" Margin="10,83,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="14" FontWeight="Bold"/>
-        <Label Content="Click below to view all patients:" HorizontalAlignment="Left" Margin="10,319,0,0" VerticalAlignment="Top" FontWeight="Bold" FontFamily="Times New Roman" RenderTransformOrigin="0.491,0.244"/>
-        <Button Name="Btn_ViewPatientHistory" Content="View Patient History" HorizontalAlignment="Left" Margin="23,357,0,0" VerticalAlignment="Top" Width="146" Height="29" Background="#FFE41137" Click="Btn_ViewPatientHistory_Click"/>
-        <DataGrid Name="PatientDataGrid" ItemsSource="{Binding}" HorizontalAlignment="Left" Height="292" Margin="195,94,0,0" VerticalAlignment="Top" Width="574" Background="#FF71E3E5"/>
+        <Label Content="                                    Welcome to Hospital Management System               " HorizontalAlignment="Left" Margin="0,17,0,0" VerticalAlignment="Top" Background="#FF7F73CE" BorderBrush="#FFDF1313" FontFamily="Global Sans Serif" FontSize="20" Width="792"/>
+        <Button Name="Btn_AddPatientInfo" Content="Add Patient Info" HorizontalAlignment="Left" Margin="30,85,0,0" VerticalAlignment="Top" Width="139" Background="#FF7F73CE" Click="AddPatientInfo_Click" FontFamily="Global Sans Serif" Height="35"/>
+        <Button Name="Btn_AddAppointmentData" Content="Add Appointment Data" HorizontalAlignment="Left" Margin="30,125,0,0" VerticalAlignment="Top" Width="139" Background="#FFC7AE64" Click="Btn_AddAppointmentData_Click" FontFamily="Global Sans Serif" Height="35"/>
+        <Button Name="Btn_ModifyPatientInfo" Content="Modify Patient Info" HorizontalAlignment="Left" Margin="30,165,0,0" VerticalAlignment="Top" Width="139" RenderTransformOrigin="0.441,0.722" Background="#FF7F73CE" Click="Btn_ModifyPatientInfo_Click" FontFamily="Global Sans Serif" Height="32"/>
+        <Button Name="Btn_SearchPatientInfo" Content="Search Patient Info" HorizontalAlignment="Left" Margin="30,202,0,0" VerticalAlignment="Top" Width="139" RenderTransformOrigin="0.441,0.722" Background="#FFCAB063" Click="Btn_SearchPatientInfo_Click" FontFamily="Global Sans Serif" Height="35"/>
+        <Button Name="Btn_FindLabReport" Content="Find Lab Report" HorizontalAlignment="Left" Margin="30,242,0,0" VerticalAlignment="Top" Width="139" RenderTransformOrigin="0.441,0.722" Background="#FF7F73CE" Click="Btn_FindLabReport_Click" FontFamily="Global Sans Serif" Height="35"/>
+        <Button Name="Btn_FindBillData" Content="Find Bill Data" HorizontalAlignment="Left" Margin="30,282,0,0" VerticalAlignment="Top" Width="139" RenderTransformOrigin="0.441,0.722" Background="#FFCDB15C" Click="Btn_FindBillData_Click" FontFamily="Global Sans Serif" Height="35"/>
+        <Button Name="Btn_ViewPatientHistory" Content="View Patient History" HorizontalAlignment="Left" Margin="30,322,0,0" VerticalAlignment="Top" Width="139" Height="35" Background="#FF7F73CE" Click="Btn_ViewPatientHistory_Click" FontFamily="Global Sans Serif"/>
+        <DataGrid Name="PatientDataGrid" ItemsSource="{Binding}" HorizontalAlignment="Left" Height="320" Margin="195,66,0,0" VerticalAlignment="Top" Width="574" Background="#FFCDB15C"/>
 
     </Grid>
 </Window>

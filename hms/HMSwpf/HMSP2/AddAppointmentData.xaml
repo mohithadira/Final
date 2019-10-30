@@ -6,11 +6,11 @@
         xmlns:local="clr-namespace:HMSPresentation"
         mc:Ignorable="d"
         Title="AddAppointmentData" Height="450" Width="800">
-    <Grid Background="#FF7AB6B5">
-        <Label Content="Patient Appointment Details" HorizontalAlignment="Left" Margin="242,10,0,0" VerticalAlignment="Top" FontFamily="Comic Sans MS" FontWeight="Bold" FontSize="20" Background="#FFC184D3"/>
+    <Grid Background="#FFE2C4E0">
+        <Label Content="                                          Patient Appointment Details" HorizontalAlignment="Left" Margin="0,10,0,0" VerticalAlignment="Top" FontFamily="Global Sans Serif" FontWeight="Bold" FontSize="20" Background="#FF7F73CE" Width="792"/>
         <Label Content="Please enter the patient Id:" HorizontalAlignment="Left" Margin="55,84,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="14" Width="167"/>
         <TextBox Name="txtPatientId" HorizontalAlignment="Left" Height="23" Margin="242,84,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="198"/>
-        <Button x:Name="btnSubmit" Content="Submit" HorizontalAlignment="Left" Margin="242,141,0,0" VerticalAlignment="Top" Width="90" Click="BtnSubmit_Click" Background="#FF16CB1E" RenderTransformOrigin="1.648,0.571"/>
-        <Button x:Name="Back" Content="Back" HorizontalAlignment="Left" Margin="350,141,0,0" VerticalAlignment="Top" Width="90" Background="#FF34CB2C" Click="Back_Click"/>
+        <Button x:Name="btnSubmit" Content="Submit" HorizontalAlignment="Left" Margin="242,141,0,0" VerticalAlignment="Top" Width="90" Click="BtnSubmit_Click" Background="#FF7F73CE" RenderTransformOrigin="1.648,0.571"/>
+        <Button x:Name="Back" Content="Back" HorizontalAlignment="Left" Margin="350,141,0,0" VerticalAlignment="Top" Width="90" Background="#FF7F73CE" Click="Back_Click"/>
     </Grid>
 </Window>
