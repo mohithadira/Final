@@ -122,7 +122,7 @@ select * from Patient where PatientID = @PatientID
 end
 go
 
-alter proc usp_GetPatientsById
+create proc usp_GetPatientsById
 (
 	@PatientID int
 )
@@ -207,7 +207,7 @@ insert into BillData(DoctorFees,RoomCharge,OperationCharge,MedicineFees,TotalDay
 values(@DoctorFees,@RoomCharge,@OperationCharge,@MedicineFees,@TotalDays,@LabFees,@TotalAmount,@PatientID);
 end
 
-alter proc usp_GetPatientId as 
+create proc usp_GetPatientId as 
 begin
 select top 1 PatientID from Patient order by PatientID desc
 end

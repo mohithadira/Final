@@ -1,9 +1,3 @@
-use scott 
-go
-
-drop database Hospital
-go
-
 create database Hospital
 go
 
@@ -23,7 +17,7 @@ create table Patient
 	Disease varchar(20) not null
 )
 go
-
+select * from Patient
 create table Lab
 (
 	ReportId int primary key identity(1,1) not null,
